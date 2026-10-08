@@ -1,0 +1,7 @@
+Droid Serif: Digitized data copyright © 2007, Google Corporation.
+The font files retain this copyright and the Apache License 2.0 URL in
+their embedded metadata. See droid-serif-APACHE2.txt for the license.
+
+PT Sans and PT Sans Narrow: Copyright (c) 2010, ParaType Ltd.
+See pt-sans-OFL.txt and pt-sans-narrow-OFL.txt for the respective license
+and reserved font names. The font binaries are redistributed unchanged.

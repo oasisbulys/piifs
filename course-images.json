@@ -1,0 +1,46 @@
+[
+  {
+    "course": "General Mathematics",
+    "image": "art/courses/general-mathematics.jpg",
+    "alt": "Fifteenth-century manuscript with handwritten arithmetic calculations in brown and red ink.",
+    "objectPosition": "50% 7%",
+    "title": "Arithmetic manuscript, Ms. Ham. 692, folio 36r (1451)",
+    "source": "https://commons.wikimedia.org/wiki/File:Al-Khwarizmi,_Handbuch_der_Arithmetik,_Algebra_und_Geometrie,_Ms._Ham._692,_15th_cent.,_f._36r.jpg",
+    "credit": "Staatsbibliothek zu Berlin, Ms. Ham. 692, fol. 36r (1451), via Wikimedia Commons. Public domain. Cropped for display.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "display": "art/courses/display/general-mathematics-600.jpg"
+  },
+  {
+    "course": "Academic Mathematics",
+    "image": "art/courses/academic-mathematics.png",
+    "alt": "Greek geometry manuscript with a rectangle, diagonal, and arc drawn beside handwritten text.",
+    "objectPosition": "50% 0%",
+    "title": "Euclid's Elements, MS D'Orville 301, Book II, Proposition 5 (888)",
+    "source": "https://commons.wikimedia.org/wiki/File:MS_D'Orville_301_Book_II_Prop_5.png",
+    "credit": "Euclid's Elements, MS D'Orville 301 (888), Bodleian Libraries, via Wikimedia Commons. Public domain. Cropped for display.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "display": "art/courses/display/academic-mathematics-600.jpg"
+  },
+  {
+    "course": "General Biology",
+    "image": "art/courses/general-biology.jpg",
+    "alt": "Botanical illustration showing the finely divided green fronds of a male fern.",
+    "objectPosition": "50% 32%",
+    "title": "Dryopteris filix-mas, Bilder ur Nordens Flora, plate 501",
+    "source": "https://commons.wikimedia.org/wiki/File:501_Dryopteris_filix_mas.jpg",
+    "credit": "Carl Axel Magnus Lindman, Bilder ur Nordens Flora, plate 501 (1917-1926), via Wikimedia Commons. Public domain. Cropped for display.",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "display": "art/courses/display/general-biology-600.jpg"
+  },
+  {
+    "course": "Chemistry",
+    "image": "art/courses/chemistry.jpg",
+    "alt": "Historical chemistry apparatus with a charcoal furnace connected to glass tubes and absorption bulbs.",
+    "objectPosition": "50% 60%",
+    "title": "Liebig's apparatus for organic analysis, 1831",
+    "source": "https://commons.wikimedia.org/wiki/File:Liebigs_apparatus_for_organic_analysis,_1831_Wellcome_M0004600.jpg",
+    "credit": "Liebig's apparatus for organic analysis, 1831. Wellcome Library, London / Wellcome Images, CC BY 4.0, via Wikimedia Commons. Cropped for display.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "display": "art/courses/display/chemistry-600.jpg"
+  }
+]

@@ -1,0 +1,1327 @@
+{
+  "checked_at": "2026-09-29T23:36:24.517865+05:30",
+  "count": 143,
+  "metadata_confirmed": 143,
+  "lessons": [
+    {
+      "chapter": "01 - Sets",
+      "lesson": 1,
+      "id": "sbpCTjmw85g",
+      "url": "https://www.youtube.com/watch?v=sbpCTjmw85g",
+      "title": "Lecture 1: Predicates, Sets, and Proofs",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "01 - Sets",
+      "lesson": 2,
+      "id": "ykZo1MlYyCI",
+      "url": "https://www.youtube.com/watch?v=ykZo1MlYyCI",
+      "title": "Set Theory: Union, Intersection, Set Minus, Absolute Complement, Venn Diagrams, and Powerset",
+      "teacher": "The Math Sorcerer",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 1,
+      "id": "FkUEsP9efFg",
+      "url": "https://www.youtube.com/watch?v=FkUEsP9efFg",
+      "title": "Introduction to Functions (Precalculus - College Algebra 2)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 2,
+      "id": "p1sGAHulT8w",
+      "url": "https://www.youtube.com/watch?v=p1sGAHulT8w",
+      "title": "How to Evaluate Functions (Precalculus - College Algebra 3)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 3,
+      "id": "LvUCDcp6Z3k",
+      "url": "https://www.youtube.com/watch?v=LvUCDcp6Z3k",
+      "title": "Finding the Domain of Functions (Precalculus - College Algebra 4)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 4,
+      "id": "7N_-G4usp6Q",
+      "url": "https://www.youtube.com/watch?v=7N_-G4usp6Q",
+      "title": "Operations of Functions (Precalculus - College Algebra 5)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 5,
+      "id": "7j6kh8Z2H90",
+      "url": "https://www.youtube.com/watch?v=7j6kh8Z2H90",
+      "title": "Using the Vertical Line Test (Precalculus - College Algebra 6)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 6,
+      "id": "d3b-4Zz65ZE",
+      "url": "https://www.youtube.com/watch?v=d3b-4Zz65ZE",
+      "title": "Features of Graphs, Domain, Range (Precalculus - College Algebra 7)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 7,
+      "id": "6897XAx3O9Q",
+      "url": "https://www.youtube.com/watch?v=6897XAx3O9Q",
+      "title": "Properties of Functions - Even vs Odd (Precalculus - College Algebra 8)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 8,
+      "id": "cIRDvscVPr0",
+      "url": "https://www.youtube.com/watch?v=cIRDvscVPr0",
+      "title": "Properties of Functions - Increasing vs Decreasing (Precalculus - College Algebra 9)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 9,
+      "id": "2hItEGb3KJo",
+      "url": "https://www.youtube.com/watch?v=2hItEGb3KJo",
+      "title": "Properties of Functions - Extrema (Precalculus - College Algebra 10)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 10,
+      "id": "H5Y-ONkezDM",
+      "url": "https://www.youtube.com/watch?v=H5Y-ONkezDM",
+      "title": "Average Rate of Change of a Function (Precalculus - College Algebra 11)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 11,
+      "id": "KHZKgl_9o7M",
+      "url": "https://www.youtube.com/watch?v=KHZKgl_9o7M",
+      "title": "How to Graph Piecewise Functions (Precalculus - College Algebra 12)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 12,
+      "id": "NrmmR3-VxA8",
+      "url": "https://www.youtube.com/watch?v=NrmmR3-VxA8",
+      "title": "Graphs You Must Know (Precalculus - College Algebra 13)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 13,
+      "id": "sTCRB6hMsC4",
+      "url": "https://www.youtube.com/watch?v=sTCRB6hMsC4",
+      "title": "Introduction to Graph Transformations (Precalculus - College Algebra 14)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 14,
+      "id": "HkrMJLSpJFI",
+      "url": "https://www.youtube.com/watch?v=HkrMJLSpJFI",
+      "title": "How to Graph with Transformations (Precalculus - College Algebra 15)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "02 - Relations and Functions",
+      "lesson": 15,
+      "id": "gwOxD51n3nc",
+      "url": "https://www.youtube.com/watch?v=gwOxD51n3nc",
+      "title": "Lecture 15: Relations and Counting",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 1,
+      "id": "EWd_FtOfyPc",
+      "url": "https://www.youtube.com/watch?v=EWd_FtOfyPc",
+      "title": "Introduction to Radians (Precalculus - Trigonometry 3)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 2,
+      "id": "sCwcbZSZL5o",
+      "url": "https://www.youtube.com/watch?v=sCwcbZSZL5o",
+      "title": "Converting Radians and Degrees (Precalculus - Trigonometry 4)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 3,
+      "id": "x6wnYbOBCic",
+      "url": "https://www.youtube.com/watch?v=x6wnYbOBCic",
+      "title": "Area of a Sector, Angular Velocity, Applications (Precalculus - Trigonometry 5)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 4,
+      "id": "__nefjOhVks",
+      "url": "https://www.youtube.com/watch?v=__nefjOhVks",
+      "title": "Trigonometric Functions and the Unit Circle (Precalculus - Trigonometry 6)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 5,
+      "id": "GdRZfemxTFI",
+      "url": "https://www.youtube.com/watch?v=GdRZfemxTFI",
+      "title": "How to Use the Unit Circle in Trigonometry (Precalculus - Trigonometry 7)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 6,
+      "id": "_dTRpq_yGIc",
+      "url": "https://www.youtube.com/watch?v=_dTRpq_yGIc",
+      "title": "Basic Properties of Trigonometric Functions (Precalculus - Trigonometry 8)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 7,
+      "id": "98jDUsZ2JYA",
+      "url": "https://www.youtube.com/watch?v=98jDUsZ2JYA",
+      "title": "Reciprocal Identities in Trigonometry (Precalculus - Trigonometry 9)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 8,
+      "id": "huP3v7iZuLM",
+      "url": "https://www.youtube.com/watch?v=huP3v7iZuLM",
+      "title": "Pythagorean Identities for Trigonometric Functions (Precalculus - Trigonometry 10)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 9,
+      "id": "3HHgZopzL_s",
+      "url": "https://www.youtube.com/watch?v=3HHgZopzL_s",
+      "title": "The Graphs of Sine and Cosine (Precalculus - Trigonometry 11)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 10,
+      "id": "dyXT5KMCrPk",
+      "url": "https://www.youtube.com/watch?v=dyXT5KMCrPk",
+      "title": "Graphing Transformations with Sine and Cosine (Precalculus - Trigonometry 12)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 11,
+      "id": "8eMEBrPYJ0I",
+      "url": "https://www.youtube.com/watch?v=8eMEBrPYJ0I",
+      "title": "How to Graph Tangent and Cotangent (Precalculus - Trigonometry 13)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 12,
+      "id": "i4rr_J1VbkY",
+      "url": "https://www.youtube.com/watch?v=i4rr_J1VbkY",
+      "title": "Graphing Transformations with Tangent and Cotangent (Precalculus - Trigonometry 14)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 13,
+      "id": "kYIKNTXaf_E",
+      "url": "https://www.youtube.com/watch?v=kYIKNTXaf_E",
+      "title": "How to Graph Cosecant and Secant (Precalculus - Trigonometry 15)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 14,
+      "id": "bE5PFI-ibT8",
+      "url": "https://www.youtube.com/watch?v=bE5PFI-ibT8",
+      "title": "How to Graph Phase Shifts of Trigonometric Functions (Precalculus - Trigonometry 16)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 15,
+      "id": "ih01YszlraY",
+      "url": "https://www.youtube.com/watch?v=ih01YszlraY",
+      "title": "Introduction to Inverse Trigonometric Functions (Precalculus - Trigonometry 17)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 16,
+      "id": "6PB76VMNiX0",
+      "url": "https://www.youtube.com/watch?v=6PB76VMNiX0",
+      "title": "How to Use Inverse Trigonometric Functions (Precalculus - Trigonometry 18)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 17,
+      "id": "Ru9Xbd01Jk8",
+      "url": "https://www.youtube.com/watch?v=Ru9Xbd01Jk8",
+      "title": "How to Find Inverse Trigonometric Functions (Precalculus - Trigonometry 19)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 18,
+      "id": "PEwUFrx-vPA",
+      "url": "https://www.youtube.com/watch?v=PEwUFrx-vPA",
+      "title": "How to Solve Basic Inverse Trigonometric Functions (Precalculus - Trigonometry 20)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 19,
+      "id": "1f6BhHlkgy4",
+      "url": "https://www.youtube.com/watch?v=1f6BhHlkgy4",
+      "title": "An Indepth Look at Using Inverse Trig Functions (Precalculus - Trigonometry 21)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 20,
+      "id": "hBk7OnEYPcw",
+      "url": "https://www.youtube.com/watch?v=hBk7OnEYPcw",
+      "title": "How to Solve Trigonometric Equations (Precalculus - Trigonometry 22)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 21,
+      "id": "yIMR-3c1wP8",
+      "url": "https://www.youtube.com/watch?v=yIMR-3c1wP8",
+      "title": "Introduction to Using Trigonometric Identities (Precalculus - Trigonometry 23)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 22,
+      "id": "az_veh1FLbo",
+      "url": "https://www.youtube.com/watch?v=az_veh1FLbo",
+      "title": "How to Prove Trigonometric Identities (Precalculus - Trigonometry 24)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 23,
+      "id": "9R5Nz1eYddM",
+      "url": "https://www.youtube.com/watch?v=9R5Nz1eYddM",
+      "title": "Introduction to Sum and Difference Formulas in Trigonometry (Precalculus - Trigonometry 25)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 24,
+      "id": "xw4HLT3TmIU",
+      "url": "https://www.youtube.com/watch?v=xw4HLT3TmIU",
+      "title": "Using Sum and Difference Formulas in Trigonometry (Precalculus - Trigonometry 26)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 25,
+      "id": "Epa2mi8hzBA",
+      "url": "https://www.youtube.com/watch?v=Epa2mi8hzBA",
+      "title": "Proving the Double and Half Angle Formulas for Trigonometry (Precalculus - Trigonometry 27)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "03 - Trigonometric Functions",
+      "lesson": 26,
+      "id": "Pf6p6lCs5I8",
+      "url": "https://www.youtube.com/watch?v=Pf6p6lCs5I8",
+      "title": "How to Use the Double and Half Angle Formulas for Trigonometry (Precalculus - Trigonometry 28)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 1,
+      "id": "T647CGsuOVU",
+      "url": "https://www.youtube.com/watch?v=T647CGsuOVU",
+      "title": "Imaginary Numbers Are Real [Part 1: Introduction]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 2,
+      "id": "2HrSG0fdxLY",
+      "url": "https://www.youtube.com/watch?v=2HrSG0fdxLY",
+      "title": "Imaginary Numbers Are Real [Part 2: A Little History]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 3,
+      "id": "N9QOLrfcKNc",
+      "url": "https://www.youtube.com/watch?v=N9QOLrfcKNc",
+      "title": "Imaginary Numbers Are Real [Part 3: Cardan's Problem]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 4,
+      "id": "DThAoT3q2V4",
+      "url": "https://www.youtube.com/watch?v=DThAoT3q2V4",
+      "title": "Imaginary Numbers Are Real [Part 4: Bombelli's Solution]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 5,
+      "id": "65wYmy8Pf-Y",
+      "url": "https://www.youtube.com/watch?v=65wYmy8Pf-Y",
+      "title": "Imaginary Numbers Are Real [Part 5: Numbers are Two Dimensional]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 6,
+      "id": "z5IG_6_zPDo",
+      "url": "https://www.youtube.com/watch?v=z5IG_6_zPDo",
+      "title": "Imaginary Numbers Are Real [Part 6: The Complex Plane]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 7,
+      "id": "YHvR8siIiD0",
+      "url": "https://www.youtube.com/watch?v=YHvR8siIiD0",
+      "title": "Imaginary Numbers Are Real [Part 7: Complex Multiplication]",
+      "teacher": "Welch Labs",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 8,
+      "id": "HbJs3rdccYY",
+      "url": "https://www.youtube.com/watch?v=HbJs3rdccYY",
+      "title": "Intermediate Algebra Lecture 10.7:  An Introduction to Operations with Complex Numbers",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 9,
+      "id": "OIEkJaPgjKs",
+      "url": "https://www.youtube.com/watch?v=OIEkJaPgjKs",
+      "title": "Introduction to Solving Quadratics (Precalculus - College Algebra 16)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 10,
+      "id": "mXAd6rkNSK0",
+      "url": "https://www.youtube.com/watch?v=mXAd6rkNSK0",
+      "title": "The Square Root Method in Solving Quadratics (Precalculus - College Algebra 17)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 11,
+      "id": "u2CFHYJWS60",
+      "url": "https://www.youtube.com/watch?v=u2CFHYJWS60",
+      "title": "Using Factoring to Solve Quadratics (Precalculus - College Algebra 18)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 12,
+      "id": "pYSYL_vy6YQ",
+      "url": "https://www.youtube.com/watch?v=pYSYL_vy6YQ",
+      "title": "Completing the Square Made Easy (Precalculus - College Algebra 19)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 13,
+      "id": "2BUg_w1Cu9E",
+      "url": "https://www.youtube.com/watch?v=2BUg_w1Cu9E",
+      "title": "Proving the Quadratic Formula - Twice (Precalculus - College Algebra 20)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "04 - Complex Numbers and Quadratics",
+      "lesson": 14,
+      "id": "KIWXZVsdpbE",
+      "url": "https://www.youtube.com/watch?v=KIWXZVsdpbE",
+      "title": "Using the Quadratic Formula (Precalculus - College Algebra 21)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 1,
+      "id": "KYJpI3HBlj4",
+      "url": "https://www.youtube.com/watch?v=KYJpI3HBlj4",
+      "title": "Introduction to Linear Inequalities and Interval Notation (TTP Video 19)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 2,
+      "id": "IHYTFZyX-lQ",
+      "url": "https://www.youtube.com/watch?v=IHYTFZyX-lQ",
+      "title": "Solving Basic Linear Inequalities (TTP Video 20)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 3,
+      "id": "rU38bic3kyY",
+      "url": "https://www.youtube.com/watch?v=rU38bic3kyY",
+      "title": "Solving Advanced Linear Inequalities (TTP Video 21)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 4,
+      "id": "ECgMxWD_vWY",
+      "url": "https://www.youtube.com/watch?v=ECgMxWD_vWY",
+      "title": "Introduction to Compound Linear Inequalities -- And vs Or (TTP Video 22)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 5,
+      "id": "zk-CdKGQ3G8",
+      "url": "https://www.youtube.com/watch?v=zk-CdKGQ3G8",
+      "title": "Solving Compound Inequalities with AND (TTP Video 23)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 6,
+      "id": "E4QE2cYtIIo",
+      "url": "https://www.youtube.com/watch?v=E4QE2cYtIIo",
+      "title": "Solving Double Inequalities (TTP Video 24)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "05 - Linear Inequalities",
+      "lesson": 7,
+      "id": "qnOUbbGZo_M",
+      "url": "https://www.youtube.com/watch?v=qnOUbbGZo_M",
+      "title": "Solving Compound Inequalities with OR (TTP Video 25)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "06 - Permutations and Combinations",
+      "lesson": 1,
+      "id": "pNt5Ll6hGqo",
+      "url": "https://www.youtube.com/watch?v=pNt5Ll6hGqo",
+      "title": "Lec 16 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "06 - Permutations and Combinations",
+      "lesson": 2,
+      "id": "09yIb3VHhMI",
+      "url": "https://www.youtube.com/watch?v=09yIb3VHhMI",
+      "title": "Lec 17 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "07 - Binomial Theorem",
+      "lesson": 1,
+      "id": "4eeRCPzcy5Q",
+      "url": "https://www.youtube.com/watch?v=4eeRCPzcy5Q",
+      "title": "Expand the Binomial using Pascal's Triangle(Binomial Theorem)",
+      "teacher": "The Math Sorcerer",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "07 - Binomial Theorem",
+      "lesson": 2,
+      "id": "iPwrDWQ7hPc",
+      "title": "Binomial theorem | Polynomial and rational functions | Algebra II | Khan Academy",
+      "teacher": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=iPwrDWQ7hPc",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "07 - Binomial Theorem",
+      "lesson": 3,
+      "id": "xF_hJaXUNfE",
+      "title": "Binomial theorem combinatorics connection | Algebra II | Khan Academy",
+      "teacher": "Khan Academy",
+      "url": "https://www.youtube.com/watch?v=xF_hJaXUNfE",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "07 - Binomial Theorem",
+      "lesson": 4,
+      "id": "s19dWIHficY",
+      "title": "Binomial Theorem Expansion, Pascal's Triangle, Finding Terms & Coefficients, Combinations, Algebra 2",
+      "teacher": "The Organic Chemistry Tutor",
+      "url": "https://www.youtube.com/watch?v=s19dWIHficY",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "07 - Binomial Theorem",
+      "lesson": 5,
+      "id": "BLoTL1TVIz0",
+      "title": "General Term in a Binomial Expansion (1 of 2: Why is it useful?)",
+      "teacher": "Eddie Woo",
+      "url": "https://www.youtube.com/watch?v=BLoTL1TVIz0",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "07 - Binomial Theorem",
+      "lesson": 6,
+      "id": "ZhXiQew93Mc",
+      "title": "General Term in a Binomial Expansion (2 of 2: Using Tn to evaluate specific term)",
+      "teacher": "Eddie Woo",
+      "url": "https://www.youtube.com/watch?v=ZhXiQew93Mc",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "08 - Sequences and Series",
+      "lesson": 1,
+      "id": "c5D7BJ-R41I",
+      "url": "https://www.youtube.com/watch?v=c5D7BJ-R41I",
+      "title": "Introduction to Sequences (Precalculus - College Algebra 67)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "08 - Sequences and Series",
+      "lesson": 2,
+      "id": "Ipz9xXeoaRc",
+      "url": "https://www.youtube.com/watch?v=Ipz9xXeoaRc",
+      "title": "Introduction to Series and Summation Notation  (Precalculus - College Algebra 68)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "08 - Sequences and Series",
+      "lesson": 3,
+      "id": "bxGmjouB6t4",
+      "url": "https://www.youtube.com/watch?v=bxGmjouB6t4",
+      "title": "Arithmetic Sequences (Precalculus - College Algebra 69)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "08 - Sequences and Series",
+      "lesson": 4,
+      "id": "XdXQjHsl4q0",
+      "url": "https://www.youtube.com/watch?v=XdXQjHsl4q0",
+      "title": "Arithmetic Series (Precalculus - College Algebra 70)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "08 - Sequences and Series",
+      "lesson": 5,
+      "id": "qyHCnYewdrQ",
+      "url": "https://www.youtube.com/watch?v=qyHCnYewdrQ",
+      "title": "Geometric Sequences (Precalculus - College Algebra 71)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "08 - Sequences and Series",
+      "lesson": 6,
+      "id": "_yDqkrbd5mk",
+      "url": "https://www.youtube.com/watch?v=_yDqkrbd5mk",
+      "title": "Geometric Series (Precalculus - College Algebra 72)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 1,
+      "id": "3Ij_AdUPQEc",
+      "url": "https://www.youtube.com/watch?v=3Ij_AdUPQEc",
+      "title": "Introduction to the Slope of a Line (TTP Video 35)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 2,
+      "id": "uETsUSavAtk",
+      "url": "https://www.youtube.com/watch?v=uETsUSavAtk",
+      "title": "Discovering the Slope Formula (TTP 36)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 3,
+      "id": "4EPvK4usKxA",
+      "url": "https://www.youtube.com/watch?v=4EPvK4usKxA",
+      "title": "Finding the Slope of a Line Graphically (TTP Video 37)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 4,
+      "id": "pgKqD7mUtzY",
+      "url": "https://www.youtube.com/watch?v=pgKqD7mUtzY",
+      "title": "Using the Slope Formula Given Two Points (TTP Video 38)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 5,
+      "id": "aOQLVjapssk",
+      "url": "https://www.youtube.com/watch?v=aOQLVjapssk",
+      "title": "Graphing Lines Using a Point and the Slope (TTP Video 39)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 6,
+      "id": "IJiO6V_ubKQ",
+      "url": "https://www.youtube.com/watch?v=IJiO6V_ubKQ",
+      "title": "Introduction to Slope-Intercept Form  (TTP Video 40)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 7,
+      "id": "MJsXrXUj4mI",
+      "url": "https://www.youtube.com/watch?v=MJsXrXUj4mI",
+      "title": "How to Use Slope-Intercept Form (TTP Video 41)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 8,
+      "id": "qUSpHlcoO9k",
+      "url": "https://www.youtube.com/watch?v=qUSpHlcoO9k",
+      "title": "Why We Need Slope-Intercept Form (TTP Video 42)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 9,
+      "id": "CXcFN9KhIsA",
+      "url": "https://www.youtube.com/watch?v=CXcFN9KhIsA",
+      "title": "Finding Equations of Parallel and Perpendicular Lines (TTP Video 43)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 10,
+      "id": "J7qcJoDKYyo",
+      "url": "https://www.youtube.com/watch?v=J7qcJoDKYyo",
+      "title": "Discovering Point-Slope Form (TTP Video 44)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 11,
+      "id": "D-jq-RPXGB4",
+      "url": "https://www.youtube.com/watch?v=D-jq-RPXGB4",
+      "title": "Using the Point-Slope Equation of a Line (TTP Video 45)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "09 - Straight Lines",
+      "lesson": 12,
+      "id": "eEUW-RqaJxI",
+      "url": "https://www.youtube.com/watch?v=eEUW-RqaJxI",
+      "title": "Finding the Equation of a Line From Two Points (TTP Video 46)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "10 - Conic Sections",
+      "lesson": 1,
+      "id": "fxG7K802yLw",
+      "url": "https://www.youtube.com/watch?v=fxG7K802yLw",
+      "title": "Intermediate Algebra Lecture 13.1:   A Study of Conic Sections -- Parabola and Circle.",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "10 - Conic Sections",
+      "lesson": 2,
+      "id": "5uYKxsJVOG4",
+      "url": "https://www.youtube.com/watch?v=5uYKxsJVOG4",
+      "title": "Intermediate Algebra Lecture 13.2:  A Study of Conic Sections -- Ellipse and Hyperbola.",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "11 - Introduction to 3D Geometry",
+      "lesson": 1,
+      "id": "AYixF5nY3Vc",
+      "url": "https://www.youtube.com/watch?v=AYixF5nY3Vc",
+      "title": "Coordinate free proofs: centroid of a triangle | MIT 18.02SC Multivariable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 1,
+      "id": "WUvTyaaNkzM",
+      "url": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
+      "title": "The essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 2,
+      "id": "9vKqVkMQHKk",
+      "url": "https://www.youtube.com/watch?v=9vKqVkMQHKk",
+      "title": "The paradox of the derivative | Chapter 2, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 3,
+      "id": "S0_qX4VJhMQ",
+      "url": "https://www.youtube.com/watch?v=S0_qX4VJhMQ",
+      "title": "Derivative formulas through geometry | Chapter 3, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 4,
+      "id": "YG15m2VwSjA",
+      "url": "https://www.youtube.com/watch?v=YG15m2VwSjA",
+      "title": "Visualizing the chain rule and product rule | Chapter 4, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 5,
+      "id": "m2MIpDrF7Es",
+      "url": "https://www.youtube.com/watch?v=m2MIpDrF7Es",
+      "title": "What's so special about Euler's number e? | Chapter 5, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 6,
+      "id": "qb40J4N1fa4",
+      "url": "https://www.youtube.com/watch?v=qb40J4N1fa4",
+      "title": "Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 7,
+      "id": "kfF40MiS7zA",
+      "url": "https://www.youtube.com/watch?v=kfF40MiS7zA",
+      "title": "Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 8,
+      "id": "rfG8ce4nNh0",
+      "url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
+      "title": "Integration and the fundamental theorem of calculus | Chapter 8, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 9,
+      "id": "FnJqaIESC2s",
+      "url": "https://www.youtube.com/watch?v=FnJqaIESC2s",
+      "title": "What does area have to do with slope? | Chapter 9, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 10,
+      "id": "BLkz5LGWihw",
+      "url": "https://www.youtube.com/watch?v=BLkz5LGWihw",
+      "title": "Higher order derivatives | Chapter 10, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 11,
+      "id": "3d6DsjIBzJ4",
+      "url": "https://www.youtube.com/watch?v=3d6DsjIBzJ4",
+      "title": "Taylor series | Chapter 11, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 12,
+      "id": "CfW845LNObM",
+      "url": "https://www.youtube.com/watch?v=CfW845LNObM",
+      "title": "The other way to visualize derivatives | Chapter 12, Essence of calculus",
+      "teacher": "3Blue1Brown",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 13,
+      "id": "_nbtaQtX6JA",
+      "url": "https://www.youtube.com/watch?v=_nbtaQtX6JA",
+      "title": "Definition of the Derivative | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 14,
+      "id": "Gbtma_UQpro",
+      "url": "https://www.youtube.com/watch?v=Gbtma_UQpro",
+      "title": "Graphing a Derivative Function | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 15,
+      "id": "Fj7pbLwbSmU",
+      "url": "https://www.youtube.com/watch?v=Fj7pbLwbSmU",
+      "title": "Smoothing a Piece-wise Function | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 16,
+      "id": "Eaei-Y5AO_E",
+      "url": "https://www.youtube.com/watch?v=Eaei-Y5AO_E",
+      "title": "Constant Multiple Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 17,
+      "id": "rfx1x-2dwSI",
+      "url": "https://www.youtube.com/watch?v=rfx1x-2dwSI",
+      "title": "Tangent Line to a Polynomial | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 18,
+      "id": "Bb-bgJdOqig",
+      "url": "https://www.youtube.com/watch?v=Bb-bgJdOqig",
+      "title": "Derivatives of Sine and Cosine | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 19,
+      "id": "55ncRlBZstA",
+      "url": "https://www.youtube.com/watch?v=55ncRlBZstA",
+      "title": "Product Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 20,
+      "id": "D7nf7pKddwM",
+      "url": "https://www.youtube.com/watch?v=D7nf7pKddwM",
+      "title": "Quotient Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12 - Limits and Derivatives",
+      "lesson": 21,
+      "id": "aeQA5d3gZTI",
+      "url": "https://www.youtube.com/watch?v=aeQA5d3gZTI",
+      "title": "Chain Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12A - Integration",
+      "lesson": 1,
+      "id": "b2ZFpE_yrLg",
+      "title": "Calculus 1 Lecture 4.1:  An Introduction to the Indefinite Integral",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=b2ZFpE_yrLg",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12A - Integration",
+      "lesson": 2,
+      "id": "aiBD9aI69C8",
+      "title": "Calculus 1 Lecture 4.2:  Integration by Substitution",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=aiBD9aI69C8",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12A - Integration",
+      "lesson": 3,
+      "id": "F0uuW-I6icY",
+      "title": "Calculus 1 Lecture 4.3:  Area Under a Curve, Limit Approach, Riemann Sums",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=F0uuW-I6icY",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12A - Integration",
+      "lesson": 4,
+      "id": "K0ORDCt5Ig0",
+      "title": "Calculus 1 Lecture 4.4:  The Evaluation of Definite Integrals",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=K0ORDCt5Ig0",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12A - Integration",
+      "lesson": 5,
+      "id": "xjtEfS0vY2o",
+      "title": "Calculus 1 Lecture 4.5:  The Fundamental Theorem of Calculus",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=xjtEfS0vY2o",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12B - Partial Differentiation",
+      "lesson": 1,
+      "id": "nIJQPX5kxp4",
+      "title": "Calculus 3 Lecture 13.1:  Intro to Multivariable Functions (Domain, Sketching, Level Curves)",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=nIJQPX5kxp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12B - Partial Differentiation",
+      "lesson": 2,
+      "id": "EkZGBdY0vlg",
+      "title": "Calculus 3 Lecture 13.3:  Partial Derivatives (Derivatives of Multivariable Functions)",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=EkZGBdY0vlg",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12B - Partial Differentiation",
+      "lesson": 3,
+      "id": "7eZVshlT33Q",
+      "title": "Lec 11: Differentials; chain rule | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=7eZVshlT33Q",
+      "source_page": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/resources/lecture-11-chain-rule/",
+      "caption_url": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/ead37ac9220d5767b6ef1c8592d653b8_7eZVshlT33Q.vtt",
+      "official_download": "https://archive.org/download/MIT18.02F07/ocw-18_02-f07-lec11_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12B - Partial Differentiation",
+      "lesson": 4,
+      "id": "EWVSxND_iWA",
+      "title": "Introduction to Differential Equations (Differential Equations 2)",
+      "teacher": "Professor Leonard",
+      "url": "https://www.youtube.com/watch?v=EWVSxND_iWA",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 1,
+      "id": "f079K1f2WQk",
+      "title": "Necessity of complex numbers",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=f079K1f2WQk",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/necessity-of-complex-numbers/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/7b1ef95b435b558eb76a14dffe108721_f079K1f2WQk.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s3_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 2,
+      "id": "dnuZx9fZHsU",
+      "title": "de Broglie’s proposal",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=dnuZx9fZHsU",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/de-broglie2019s-proposal/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/d494976deb905b5286c232afb6c69c41_dnuZx9fZHsU.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s4_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 3,
+      "id": "T6TQHNXy5Wg",
+      "title": "The wave for a free particle",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=T6TQHNXy5Wg",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/the-wave-for-a-free-particle/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/2445ed210972584fa131f965834ec4eb_T6TQHNXy5Wg.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s6_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 4,
+      "id": "ELBh60GU5yE",
+      "title": "Momentum operator, energy operator, and a differential equation",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=ELBh60GU5yE",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/momentum-operator-energy-operator-and-a-differential-equation/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/b0db7e3176705be0aabcbbe840f0cee9_ELBh60GU5yE.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s1_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 5,
+      "id": "7euh_iwzSGo",
+      "title": "Free Schrödinger equation",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=7euh_iwzSGo",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/free-schroedinger-equation/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/b79dc67d95dc5350b56ac9437e0a1db9_7euh_iwzSGo.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s2_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 6,
+      "id": "rwzg8iEOc8s",
+      "title": "The general Schrödinger equation. x, p commutator",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=rwzg8iEOc8s",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/the-general-schroedinger-equation/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/b43b78746c085632bd1ed197d2ad16c6_rwzg8iEOc8s.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s3_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 7,
+      "id": "R-5hjmV-bdY",
+      "title": "Interpretation of the wavefunction",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=R-5hjmV-bdY",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/interpretation-of-the-wavefunction/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/8da18b0b96545343bd3231210d2ee46a_R-5hjmV-bdY.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s5_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 8,
+      "id": "d4skxu7MpFI",
+      "title": "Normalizable wavefunctions and the question of time evolution",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=d4skxu7MpFI",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/normalizable-wavefunctions-and-the-question-of-time-evolution/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/508ef285660e5dd7bdfccb3f9bd5dbb7_d4skxu7MpFI.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s1_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 9,
+      "id": "8KQ-yK2xm60",
+      "title": "Stationary states: key equations",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=8KQ-yK2xm60",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/stationary-states-key-equations/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/015805deea995d328a32484b382a43d6_8KQ-yK2xm60.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s2_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "12C - Schrodinger Equation",
+      "lesson": 10,
+      "id": "gMHkf-107Sw",
+      "title": "Infinite square well energy eigenstates",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=gMHkf-107Sw",
+      "source_page": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/resources/infinite-square-well-energy-eigenstates/",
+      "caption_url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/5593c24e32495b459c1eef7c91b0303b_gMHkf-107Sw.vtt",
+      "official_download": "https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s2_300k.mp4",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "13 - Statistics",
+      "lesson": 1,
+      "id": "4-FysvtxQEU",
+      "url": "https://www.youtube.com/watch?v=4-FysvtxQEU",
+      "title": "Statistics Lecture 3.3: Finding the Standard Deviation of a Data Set",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "13 - Statistics",
+      "lesson": 2,
+      "id": "K4heM9mSrw0",
+      "url": "https://www.youtube.com/watch?v=K4heM9mSrw0",
+      "title": "Mean Absolute Deviation - Statistics",
+      "teacher": "The Organic Chemistry Tutor",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "13 - Statistics",
+      "lesson": 3,
+      "id": "x6Pnf57wRAs",
+      "url": "https://www.youtube.com/watch?v=x6Pnf57wRAs",
+      "title": "How To Calculate The Standard Deviation of Grouped Data",
+      "teacher": "The Organic Chemistry Tutor",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "14 - Probability",
+      "lesson": 1,
+      "id": "SmFwFdESMHI",
+      "url": "https://www.youtube.com/watch?v=SmFwFdESMHI",
+      "title": "Lec 18 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "14 - Probability",
+      "lesson": 2,
+      "id": "_EpXHuPnaK0",
+      "url": "https://www.youtube.com/watch?v=_EpXHuPnaK0",
+      "title": "Statistics Lecture 4.2: Introduction to Probability",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "14 - Probability",
+      "lesson": 3,
+      "id": "mmWxtSx03JI",
+      "url": "https://www.youtube.com/watch?v=mmWxtSx03JI",
+      "title": "Statistics Lecture 4.3: The Addition Rule for Probability",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "14 - Probability",
+      "lesson": 4,
+      "id": "05JCQswK3hE",
+      "url": "https://www.youtube.com/watch?v=05JCQswK3hE",
+      "title": "Statistics Lecture 4.4: The Multiplication Rule for \"And\" Probabilities.",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "14 - Probability",
+      "lesson": 5,
+      "id": "a86Vj_7R2aQ",
+      "url": "https://www.youtube.com/watch?v=a86Vj_7R2aQ",
+      "title": "Statistics Lecture 4.5: Probability of Complementary Events with \"At Least One\"",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "15 - Formative - Mathematical Induction",
+      "lesson": 1,
+      "id": "_NYsYuzMLs0",
+      "url": "https://www.youtube.com/watch?v=_NYsYuzMLs0",
+      "title": "Lecture 2: Contradiction and Induction",
+      "teacher": "MIT OpenCourseWare",
+      "checked": "YouTube title/author metadata returned"
+    },
+    {
+      "chapter": "15 - Formative - Mathematical Induction",
+      "lesson": 2,
+      "id": "x5cWX-EyLEI",
+      "url": "https://www.youtube.com/watch?v=x5cWX-EyLEI",
+      "title": "Proof by Mathematical Induction (Precalculus - College Algebra 73)",
+      "teacher": "Professor Leonard",
+      "checked": "YouTube title/author metadata returned"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "section": "Books",
+    "title": "Chemistry",
+    "author": "OpenStax · Chemistry 2e",
+    "format": "Online book and PDF",
+    "subject": "Chemistry",
+    "url": "https://openstax.org/details/books/chemistry-2e"
+  },
+  {
+    "section": "Books",
+    "title": "Organic Chemistry",
+    "author": "John McMurry · OpenStax",
+    "format": "Online book and PDF",
+    "subject": "Chemistry",
+    "url": "https://openstax.org/details/books/organic-chemistry"
+  },
+  {
+    "section": "Books",
+    "title": "Biology",
+    "author": "OpenStax · Biology 2e",
+    "format": "Online book and PDF",
+    "subject": "Biology",
+    "url": "https://openstax.org/details/books/biology-2e"
+  },
+  {
+    "section": "Papers and Lecture Notes",
+    "title": "Olympiad Inequalities",
+    "author": "Thomas J. Mildorf",
+    "format": "PDF",
+    "subject": "Mathematics",
+    "url": "https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf"
+  },
+  {
+    "section": "Papers and Lecture Notes",
+    "title": "Mathematics for Computer Science",
+    "author": "MIT OpenCourseWare",
+    "format": "Chapter PDFs",
+    "subject": "Mathematics",
+    "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/"
+  },
+  {
+    "section": "Papers and Lecture Notes",
+    "title": "Algebra — Reading Assignments",
+    "author": "Michael Artin · MIT OpenCourseWare",
+    "format": "Reading list",
+    "subject": "Mathematics",
+    "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/readings/"
+  },
+  {
+    "section": "Exercises",
+    "title": "Algebra — Problems and Assignments",
+    "author": "MIT OpenCourseWare",
+    "format": "Problem-set PDFs",
+    "subject": "Mathematics",
+    "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/assignments/"
+  },
+  {
+    "section": "Exercises",
+    "title": "Linear Algebra — Exercises and Solutions",
+    "author": "MIT OpenCourseWare",
+    "format": "Course resources and PDFs",
+    "subject": "Mathematics",
+    "url": "https://www.ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/"
+  },
+  {
+    "section": "Exercises",
+    "title": "Fields and Galois Theory — Assignments",
+    "author": "MIT OpenCourseWare",
+    "format": "Problem-set PDFs",
+    "subject": "Mathematics",
+    "url": "https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/assignments/"
+  }
+]

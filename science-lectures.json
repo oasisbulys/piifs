@@ -1,0 +1,934 @@
+{
+  "biology": [
+    {
+      "chapter": "Diversity",
+      "id": "zkTvj7vpb6s",
+      "title": "Species and Speciation",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=zkTvj7vpb6s",
+      "duration": 3030,
+      "series": "EEB 122"
+    },
+    {
+      "chapter": "Diversity",
+      "id": "WEHBWwA4l2s",
+      "title": "Phylogeny and Systematics",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=WEHBWwA4l2s",
+      "duration": 2616,
+      "series": "EEB 122"
+    },
+    {
+      "chapter": "Diversity",
+      "id": "Kd751kV03dE",
+      "title": "Key Events in Evolution",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=Kd751kV03dE",
+      "duration": 2904,
+      "series": "EEB 122"
+    },
+    {
+      "chapter": "Diversity",
+      "id": "QjFkTneCfTE",
+      "title": "Why So Many Species? The Factors Affecting Biodiversity",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=QjFkTneCfTE",
+      "duration": 2910,
+      "series": "EEB 122"
+    },
+    {
+      "chapter": "Biological Classification",
+      "id": "zKVsIV1B2tY",
+      "title": "Biological Classification — Comprehensive Lecture",
+      "teacher": "Vipin Sir",
+      "url": "https://www.youtube.com/watch?v=zKVsIV1B2tY",
+      "duration": 11916,
+      "series": "NCERT line-by-line"
+    },
+    {
+      "chapter": "Biological Classification",
+      "id": "dkGIjBTRbGU",
+      "title": "Biological Classification — Overview",
+      "teacher": "Vipin Sir / Ozone Classes",
+      "url": "https://www.youtube.com/watch?v=dkGIjBTRbGU",
+      "duration": 6486,
+      "series": "NCERT quick one-shot"
+    },
+    {
+      "chapter": "Morphology of Flowering Plants",
+      "id": "RkmJ8pGpmEg",
+      "title": "Morphology of Flowering Plants",
+      "teacher": "Vipin Sir",
+      "url": "https://www.youtube.com/watch?v=RkmJ8pGpmEg",
+      "duration": 13494,
+      "series": "NCERT line-by-line"
+    },
+    {
+      "chapter": "Anatomy of Flowering Plants",
+      "id": "EAZjIdXKPcQ",
+      "title": "Anatomy of Flowering Plants",
+      "teacher": "Vipin Sir",
+      "url": "https://www.youtube.com/watch?v=EAZjIdXKPcQ",
+      "duration": 7638,
+      "series": "NCERT line-by-line"
+    },
+    {
+      "chapter": "Structural Organisation in Animals",
+      "id": "oTUBhbGD0z0",
+      "title": "Structural Organisation in Animals",
+      "teacher": "Physics Wallah",
+      "url": "https://www.youtube.com/watch?v=oTUBhbGD0z0",
+      "duration": 3228,
+      "series": "NCERT + diagrams one-shot"
+    },
+    {
+      "chapter": "Structural Organisation in Animals",
+      "id": "tKNjCRdnWwo",
+      "title": "Structural Organisation in Animals & Plants — Comprehensive Lecture",
+      "teacher": "Vipin Sir",
+      "url": "https://www.youtube.com/watch?v=tKNjCRdnWwo",
+      "duration": 13236,
+      "series": "NCERT combined one-shot"
+    },
+    {
+      "chapter": "Cell The Unit of Life",
+      "id": "aKTOS0Nrlug",
+      "title": "Chemical Bonding, Molecular Interactions, Lipids & Membranes",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=aKTOS0Nrlug",
+      "duration": 2946,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Cell The Unit of Life",
+      "id": "SA8dRTq3qUA",
+      "title": "Cells: The Simplest Functional Units",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=SA8dRTq3qUA",
+      "duration": 2400,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Cell The Unit of Life",
+      "id": "Qfw0C0Ac-Tk",
+      "title": "Cell Trafficking & Protein Localization",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=Qfw0C0Ac-Tk",
+      "duration": 2748,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Cell The Unit of Life",
+      "id": "ylGkeIGOml0",
+      "title": "Cell: The Unit of Life — NCERT Line by Line",
+      "teacher": "Vipin Sir",
+      "url": "https://www.youtube.com/watch?v=ylGkeIGOml0",
+      "duration": 14490,
+      "series": "NCERT line-by-line"
+    },
+    {
+      "chapter": "Cell The Unit of Life",
+      "id": "hJi3S1haN3Y",
+      "title": "Cell: The Unit of Life — Concepts and PYQs",
+      "teacher": "Physics Wallah",
+      "url": "https://www.youtube.com/watch?v=hJi3S1haN3Y",
+      "duration": 6504,
+      "series": "Concepts + PYQs one-shot"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "oOya3cFmAMc",
+      "title": "Amino Acids, Peptides & Proteins",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=oOya3cFmAMc",
+      "duration": 3102,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "QTdJiG7mV40",
+      "title": "Enzymes & Metabolism",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=QTdJiG7mV40",
+      "duration": 2952,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "CALYA11terw",
+      "title": "Carbohydrates & Glycoproteins",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=CALYA11terw",
+      "duration": 2958,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "s1MoBTEcVYY",
+      "title": "Nucleic Acids",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=s1MoBTEcVYY",
+      "duration": 2934,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "OBloWTHFPZc",
+      "title": "Biochemical Reactions, Enzymes & ATP",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=OBloWTHFPZc",
+      "duration": 2616,
+      "series": "7.01SC"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "6c1oeUmlXiE",
+      "title": "Biomolecules — Overview",
+      "teacher": "Vipin Sir",
+      "url": "https://www.youtube.com/watch?v=6c1oeUmlXiE",
+      "duration": 10710,
+      "series": "NEET 2026 one-shot"
+    },
+    {
+      "chapter": "Biomolecules",
+      "id": "vT1g75jyCKY",
+      "title": "Biomolecules — Overview",
+      "teacher": "Vipin Sir / Ozone Classes",
+      "url": "https://www.youtube.com/watch?v=vT1g75jyCKY",
+      "duration": 7998,
+      "series": "NCERT quick one-shot"
+    },
+    {
+      "chapter": "Cell Cycle and Cell Division",
+      "id": "rZjwF5z-Xfw",
+      "title": "Cell Division & Segregating Genetic Material",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=rZjwF5z-Xfw",
+      "duration": 2760,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Cell Cycle and Cell Division",
+      "id": "iz7rWK5cqjE",
+      "title": "Cell Cycle & Checkpoints",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=iz7rWK5cqjE",
+      "duration": 2898,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Photosynthesis in Higher Plants",
+      "id": "SxaoWJ2gkzc",
+      "title": "Photosynthesis",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=SxaoWJ2gkzc",
+      "duration": 1020,
+      "series": "7.01SC"
+    },
+    {
+      "chapter": "Respiration in Plants",
+      "id": "0ZxeQqtAVl0",
+      "title": "Glycolysis, Respiration & Fermentation",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=0ZxeQqtAVl0",
+      "duration": 2526,
+      "series": "7.01SC"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "9bfI3Jtfng8",
+      "title": "Structure and Function of the Lung",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=9bfI3Jtfng8",
+      "duration": 2514,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "lIFFrq1uJVA",
+      "title": "Ventilation",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=lIFFrq1uJVA",
+      "duration": 2124,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "lee1i7sY86w",
+      "title": "Blood Gas Transport",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=lee1i7sY86w",
+      "duration": 2514,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "wZHR0-xdFCE",
+      "title": "Diffusion",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=wZHR0-xdFCE",
+      "duration": 2970,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "qLroD-Qcg4o",
+      "title": "Pulmonary Gas Exchange I",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=qLroD-Qcg4o",
+      "duration": 3720,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "x9TI_gOfn1o",
+      "title": "Pulmonary Gas Exchange II",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=x9TI_gOfn1o",
+      "duration": 3354,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "NbCKv4tQs78",
+      "title": "Mechanics of Breathing I",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=NbCKv4tQs78",
+      "duration": 2820,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Breathing and Exchange of Gases",
+      "id": "xjXnz2kYcXE",
+      "title": "Control of Ventilation",
+      "teacher": "University of California San Diego",
+      "url": "https://www.youtube.com/watch?v=xjXnz2kYcXE",
+      "duration": 3600,
+      "series": "West Respiratory Physiology"
+    },
+    {
+      "chapter": "Body Fluids and Circulation",
+      "id": "It_cV56Dxtk",
+      "title": "Cardiovascular Physiology I",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=It_cV56Dxtk",
+      "duration": 3030,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Body Fluids and Circulation",
+      "id": "aavVN9rPGWc",
+      "title": "Cardiovascular Physiology II",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=aavVN9rPGWc",
+      "duration": 2388,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Body Fluids and Circulation",
+      "id": "nzIvB0BUc6c",
+      "title": "Cardiovascular Physiology III",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=nzIvB0BUc6c",
+      "duration": 2766,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Excretory Products and Elimination",
+      "id": "XZMB-aoIi4A",
+      "title": "Renal Physiology I",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=XZMB-aoIi4A",
+      "duration": 3072,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Excretory Products and Elimination",
+      "id": "hznvgN1Wnfw",
+      "title": "Renal Physiology II",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=hznvgN1Wnfw",
+      "duration": 2676,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Locomotion and Movement",
+      "id": "dMZhxNfOYy0",
+      "title": "Biomechanics and Orthopedics I",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=dMZhxNfOYy0",
+      "duration": 2676,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Locomotion and Movement",
+      "id": "ancxWb9FoY8",
+      "title": "Biomechanics and Orthopedics II",
+      "teacher": "YaleCourses",
+      "url": "https://www.youtube.com/watch?v=ancxWb9FoY8",
+      "duration": 3126,
+      "series": "BENG 100"
+    },
+    {
+      "chapter": "Neural Control and Coordination",
+      "id": "7afYLl70cO0",
+      "title": "Neurons, Action Potential & Optogenetics",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=7afYLl70cO0",
+      "duration": 3150,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Neural Control and Coordination",
+      "id": "BAldLXDPWZM",
+      "title": "Nervous System I",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=BAldLXDPWZM",
+      "duration": 2934,
+      "series": "7.012"
+    },
+    {
+      "chapter": "Neural Control and Coordination",
+      "id": "rxiAQe0t-ZU",
+      "title": "Nervous System II",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=rxiAQe0t-ZU",
+      "duration": 2952,
+      "series": "7.012"
+    },
+    {
+      "chapter": "Neural Control and Coordination",
+      "id": "rWG1hLvoP-U",
+      "title": "Nervous System III",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=rWG1hLvoP-U",
+      "duration": 2574,
+      "series": "7.012"
+    },
+    {
+      "chapter": "Neural Control and Coordination",
+      "id": "5031rWXgdYo",
+      "title": "Introduction to Neuroscience I",
+      "teacher": "Stanford University",
+      "url": "https://www.youtube.com/watch?v=5031rWXgdYo",
+      "duration": 3636,
+      "series": "Human Behavioral Biology"
+    },
+    {
+      "chapter": "Neural Control and Coordination",
+      "id": "uqU9lmFztOU",
+      "title": "Introduction to Neuroscience II",
+      "teacher": "Stanford University",
+      "url": "https://www.youtube.com/watch?v=uqU9lmFztOU",
+      "duration": 4380,
+      "series": "Human Behavioral Biology"
+    },
+    {
+      "chapter": "Chemical Coordination and Integration",
+      "id": "5ejPI6QqKBU",
+      "title": "Cell Signaling I: Overview",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=5ejPI6QqKBU",
+      "duration": 2916,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Chemical Coordination and Integration",
+      "id": "mvjXFh4P08I",
+      "title": "Cell Signaling II: Examples",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=mvjXFh4P08I",
+      "duration": 3060,
+      "series": "7.016"
+    },
+    {
+      "chapter": "Chemical Coordination and Integration",
+      "id": "yETVsV4zfFw",
+      "title": "Endocrinology",
+      "teacher": "Stanford University",
+      "url": "https://www.youtube.com/watch?v=yETVsV4zfFw",
+      "duration": 2952,
+      "series": "Human Behavioral Biology"
+    },
+    {
+      "chapter": "Chemical Coordination and Integration",
+      "id": "kAfz0yAcOyQ",
+      "title": "Advanced Neurology and Endocrinology",
+      "teacher": "Stanford University",
+      "url": "https://www.youtube.com/watch?v=kAfz0yAcOyQ",
+      "duration": 4380,
+      "series": "Human Behavioral Biology"
+    }
+  ],
+  "chemistry": [
+    {
+      "chapter": "Chemical Principles",
+      "id": "YkYeYhXUeEE",
+      "title": "The Importance of Chemical Principles",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=YkYeYhXUeEE",
+      "duration": 1279
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "dxR06Mi8ExI",
+      "title": "Atomic Theory of Matter",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=dxR06Mi8ExI",
+      "duration": 2441
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "CVRmu_aBSho",
+      "title": "Discovery of the Nucleus",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=CVRmu_aBSho",
+      "duration": 2187
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "mJAf9OYfLV8",
+      "title": "Wave-Particle Duality of Radiation and Matter",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=mJAf9OYfLV8",
+      "duration": 2927
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "m9AJwUCAWGQ",
+      "title": "Particle-Like Nature of Light",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=m9AJwUCAWGQ",
+      "duration": 2927
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "HT4sxODPR2Q",
+      "title": "Matter as a Wave",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=HT4sxODPR2Q",
+      "duration": 2931
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "oLbTUpxhE24",
+      "title": "Schrodinger Equation for the Hydrogen Atom",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=oLbTUpxhE24",
+      "duration": 2887
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "UGoGgkHYS10",
+      "title": "Hydrogen Atom Wavefunctions",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=UGoGgkHYS10",
+      "duration": 2987
+    },
+    {
+      "chapter": "Atomic Theory and Quantum Chemistry",
+      "id": "9Cl8mj5VIHA",
+      "title": "p Orbitals",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=9Cl8mj5VIHA",
+      "duration": 3016
+    },
+    {
+      "chapter": "Structure of Atom",
+      "id": "ustfXi-mpkI",
+      "title": "Atomic Structure",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=ustfXi-mpkI",
+      "duration": 2340
+    },
+    {
+      "chapter": "Structure of Atom",
+      "id": "_U6YamvF7BE",
+      "title": "Wave-Particle Duality of Light",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=_U6YamvF7BE",
+      "duration": 2751
+    },
+    {
+      "chapter": "Structure of Atom",
+      "id": "Qg7pQ_CYaIQ",
+      "title": "Wave-Particle Duality of Matter; Schrödinger Equation",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=Qg7pQ_CYaIQ",
+      "duration": 2762
+    },
+    {
+      "chapter": "Structure of Atom",
+      "id": "kO0VmaLkgj8",
+      "title": "Hydrogen Atom Energy Levels",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=kO0VmaLkgj8",
+      "duration": 2499
+    },
+    {
+      "chapter": "Structure of Atom",
+      "id": "V-RPM3e8Ws0",
+      "title": "Hydrogen Atom Wavefunctions (Orbitals)",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=V-RPM3e8Ws0",
+      "duration": 3638
+    },
+    {
+      "chapter": "Structure of Atom",
+      "id": "-jJz5OMmuP0",
+      "title": "Multielectron Atoms",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=-jJz5OMmuP0",
+      "duration": 2156
+    },
+    {
+      "chapter": "Classification and Periodicity",
+      "id": "LWmVdG0uj2g",
+      "title": "The Periodic Table and Periodic Trends",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=LWmVdG0uj2g",
+      "duration": 2496
+    },
+    {
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "id": "NIZFPnHtrBA",
+      "title": "Periodic Table; Ionic and Covalent Bonds",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=NIZFPnHtrBA",
+      "duration": 3233
+    },
+    {
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "id": "ed_XR1BzuQs",
+      "title": "Lewis Structures",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=ed_XR1BzuQs",
+      "duration": 2617
+    },
+    {
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "id": "Hc5ODj1Ml6c",
+      "title": "Formal Charge and Resonance",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=Hc5ODj1Ml6c",
+      "duration": 1725
+    },
+    {
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "id": "Ja9eEQQzTic",
+      "title": "The Shapes of Molecules: VSEPR Theory",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=Ja9eEQQzTic",
+      "duration": 2717
+    },
+    {
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "id": "O192jrR80oo",
+      "title": "Molecular Orbital Theory",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=O192jrR80oo",
+      "duration": 3936
+    },
+    {
+      "chapter": "Chemical Bonding and Molecular Structure",
+      "id": "BBbuj0XpaiQ",
+      "title": "Valence Bond Theory and Hybridization",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=BBbuj0XpaiQ",
+      "duration": 3406
+    },
+    {
+      "chapter": "Chemical Thermodynamics",
+      "id": "wS1MX-C2V9w",
+      "title": "Thermodynamics: Bond and Reaction Enthalpies",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=wS1MX-C2V9w",
+      "duration": 2300
+    },
+    {
+      "chapter": "Chemical Thermodynamics",
+      "id": "OjhZYx1FbhI",
+      "title": "Thermodynamics: Gibbs Free Energy and Entropy",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=OjhZYx1FbhI",
+      "duration": 1921
+    },
+    {
+      "chapter": "Chemical Thermodynamics",
+      "id": "awdQqF9CFt0",
+      "title": "Thermodynamics: Now What Happens When You Heat It Up?",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=awdQqF9CFt0",
+      "duration": 1955
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "f0udxGcoztE",
+      "title": "Introduction to Chemical Equilibrium",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=f0udxGcoztE",
+      "duration": 2870
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "AVL5AwJrrEU",
+      "title": "Chemical Equilibrium: Le Châtelier’s Principle",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=AVL5AwJrrEU",
+      "duration": 2825
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "FJCVSswFXyE",
+      "title": "Solubility and Acid-Base Equilibrium",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=FJCVSswFXyE",
+      "duration": 2531
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "pJdUR2uak2s",
+      "title": "Acid-Base Equilibrium: Is MIT Water Safe to Drink?",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=pJdUR2uak2s",
+      "duration": 3622
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "caonmXHGB60",
+      "title": "Acid-Base Equilibrium: Salt Solutions and Buffers",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=caonmXHGB60",
+      "duration": 3029
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "pIwp65fPyYU",
+      "title": "Acid-Base Titrations Part I",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=pIwp65fPyYU",
+      "duration": 2721
+    },
+    {
+      "chapter": "Equilibrium",
+      "id": "Om_5b29d_9g",
+      "title": "Acid-Base Titrations Part II",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=Om_5b29d_9g",
+      "duration": 1253
+    },
+    {
+      "chapter": "Redox Reactions",
+      "id": "BZzkyqe6KD8",
+      "title": "Oxidation-Reduction and Electrochemical Cells",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=BZzkyqe6KD8",
+      "duration": 3188
+    },
+    {
+      "chapter": "Redox Reactions",
+      "id": "f6Z99Gu6XEE",
+      "title": "Chemical and Biological Oxidations",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=f6Z99Gu6XEE",
+      "duration": 2630
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "i-_oIwhlqYA",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=i-_oIwhlqYA",
+      "duration": 4150,
+      "published": "20210918"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "EkxmCOInPHw",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=EkxmCOInPHw",
+      "duration": 4096,
+      "published": "20210920"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "gXv76tJdsRE",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=gXv76tJdsRE",
+      "duration": 4239,
+      "published": "20210923"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "LMUo5HmByTs",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=LMUo5HmByTs",
+      "duration": 4118,
+      "published": "20210925"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "oICmygbDTK4",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=oICmygbDTK4",
+      "duration": 3821,
+      "published": "20210928"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "5BGcijarf28",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=5BGcijarf28",
+      "duration": 4034,
+      "published": "20210930"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "WniLrGEAYJw",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=WniLrGEAYJw",
+      "duration": 3814,
+      "published": "20211002"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "sk5kNIe8tbI",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=sk5kNIe8tbI",
+      "duration": 3276,
+      "published": "20211005"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "tHFKNRLauB0",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=tHFKNRLauB0",
+      "duration": 4153,
+      "published": "20211011"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "5L84NBor0r0",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=5L84NBor0r0",
+      "duration": 3986,
+      "published": "20211012"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "uxd4A-eoj5A",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=uxd4A-eoj5A",
+      "duration": 3934,
+      "published": "20211014"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "CuBkiofPqrc",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=CuBkiofPqrc",
+      "duration": 2958,
+      "published": "20211016"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "WwSqoMRKztA",
+      "title": "Organic Chemistry: Basic Principles and Techniques",
+      "teacher": "Monica Bedi · Unacademy",
+      "url": "https://www.youtube.com/watch?v=WwSqoMRKztA",
+      "duration": 3625,
+      "published": "20211019"
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "AFS4JbQGB0c",
+      "title": "Introduction to Organic Chemistry",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=AFS4JbQGB0c",
+      "duration": 3130
+    },
+    {
+      "chapter": "Transition Metals",
+      "id": "JBgbUI3pxV0",
+      "title": "Introduction to Transition Metals",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=JBgbUI3pxV0",
+      "duration": 2611
+    },
+    {
+      "chapter": "Transition Metals",
+      "id": "lLdPSLNxDqA",
+      "title": "Transition Metals: Crystal Field Theory Part I",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=lLdPSLNxDqA",
+      "duration": 3215
+    },
+    {
+      "chapter": "Transition Metals",
+      "id": "CFPnZ66nge4",
+      "title": "Transition Metals: Crystal Field Theory Part II",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=CFPnZ66nge4",
+      "duration": 2105
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "id": "B7iFcW8USjQ",
+      "title": "Kinetics: Rate Laws",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=B7iFcW8USjQ",
+      "duration": 2726
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "id": "XKeAd4xybjM",
+      "title": "Nuclear Chemistry and Chemical Kinetics",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=XKeAd4xybjM",
+      "duration": 2081
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "id": "4q0T9c7jotw",
+      "title": "Kinetics: Reaction Mechanisms",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=4q0T9c7jotw",
+      "duration": 2788
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "id": "KHkNrbSKFic",
+      "title": "Kinetics and Temperature",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=KHkNrbSKFic",
+      "duration": 3098
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "id": "p8AAjZXr5dg",
+      "title": "Kinetics: Catalysts",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=p8AAjZXr5dg",
+      "duration": 2474
+    },
+    {
+      "chapter": "Chemical Kinetics",
+      "id": "pn1cxuBmhtI",
+      "title": "Applying Chemical Principles",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=pn1cxuBmhtI",
+      "duration": 1984
+    }
+  ]
+}

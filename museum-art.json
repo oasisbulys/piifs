@@ -1,0 +1,47 @@
+[
+  {
+    "title": "The School of Athens",
+    "artist": "Raphael · Vatican Museums",
+    "date": "1509–1511 · Fresco",
+    "image": "art/museum-hero.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+    "description": "Raphael brings philosophy and mathematics into a single architectural space. At the lower right, a group gathers around a geometric construction. The fresco’s perspective gives the scene its measured depth.",
+    "license": "Public domain. Faithful reproduction via Wikimedia Commons; source imagery credited to the Vatican."
+  },
+  {
+    "title": "The Elements of Euclid",
+    "artist": "Oliver Byrne · Reproduction by Dr Mirko Junge",
+    "date": "1847 · Illustrated mathematics",
+    "image": "art/museum-euclid.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Byrne_1847_Pythagoras_Querformat.jpg",
+    "description": "Byrne’s edition uses red, blue and yellow shapes to carry a geometric argument. This plate presents the Pythagorean theorem, linking the squares on the sides of a right triangle.",
+    "license": "Public domain. The First Six Books of the Elements of Euclid, 1847. Reproduction via Wikimedia Commons."
+  },
+  {
+    "title": "Melencolia I",
+    "artist": "Albrecht Dürer · The Metropolitan Museum of Art",
+    "date": "1514 · Engraving",
+    "image": "art/museum-print.jpg",
+    "source": "https://www.metmuseum.org/art/collection/search/360018",
+    "description": "A polyhedron, sphere, compass and magic square surround the seated figure in Dürer’s engraving. Instruments of measurement share the scene with the unresolved work of thought.",
+    "license": "Public domain artwork; museum image released under CC0. Fletcher Fund, 1919. Accession 19.73.85."
+  },
+  {
+    "title": "Nova methodus · Tabula XII",
+    "artist": "Gottfried Wilhelm Leibniz · BEIC digital library",
+    "date": "1684 · Calculus diagrams",
+    "image": "art/museum-calculus.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Leibniz,_Gottfried_Wilhelm_von_%E2%80%93_Nova_methodus_pro_maximis_et_minimis_-_Acta_Eruditorum_-_Tabula_XII_-_Graphs,_1684.jpg",
+    "description": "Curves, tangent lines and geometric constructions accompany Leibniz’s 1684 paper on differential calculus. The plate records a formative moment in the study of continuous change.",
+    "license": "Public domain. PD-old-100-expired; digitized by the Biblioteca Europea di Informazione e Cultura (BEIC), via Wikimedia Commons."
+  },
+  {
+    "title": "Mysterium Cosmographicum",
+    "artist": "Johannes Kepler · Engraving by Christophorus Leibfried",
+    "date": "1597 engraving · Scanned edition dated 1600",
+    "image": "art/museum-geometry.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysterium_Cosmographicum_solar_system_model.jpg",
+    "description": "Kepler’s historical model nests the Platonic solids between planetary spheres. The engraving illustrates his early attempt to explain the spacing of the planets through geometry.",
+    "license": "Public domain. PD-old-100-expired; reproduction via Wikimedia Commons."
+  }
+]

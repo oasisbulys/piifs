@@ -1,0 +1,390 @@
+{
+  "title": "Algebra — Seven-Day Course",
+  "subtitle": "Polynomials, inequalities, matrices and abstract algebra",
+  "description": "18 lectures, written exercises and a final assessment.",
+  "dailyStructure": [
+    {
+      "label": "Lectures",
+      "duration": "2–3 hours"
+    },
+    {
+      "label": "Reading and proof reconstruction",
+      "duration": "1½ hours"
+    },
+    {
+      "label": "Problem solving",
+      "duration": "2–2½ hours"
+    },
+    {
+      "label": "Error review",
+      "duration": "30 minutes"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Advanced Polynomial Theory",
+      "topics": "Cubic equations, Viète’s formulas, discriminants and resultants",
+      "lectures": [
+        {
+          "id": "N-KXStupwsc",
+          "lesson": 1,
+          "chapter": "ALG-01 - Advanced Polynomial Theory",
+          "title": "500 Years of NOT Teaching the Cubic Formula",
+          "teacher": "Mathologer",
+          "url": "https://www.youtube.com/watch?v=N-KXStupwsc"
+        },
+        {
+          "id": "ssnPaJjNX-E",
+          "lesson": 2,
+          "chapter": "ALG-01 - Advanced Polynomial Theory",
+          "title": "General Viète’s Formulas for Polynomials",
+          "teacher": "Existsforall Academy",
+          "url": "https://www.youtube.com/watch?v=ssnPaJjNX-E"
+        },
+        {
+          "id": "5YNje7ZIaEM",
+          "lesson": 3,
+          "chapter": "ALG-01 - Advanced Polynomial Theory",
+          "title": "Resultant and Discriminant",
+          "teacher": "Yuly Billig",
+          "url": "https://www.youtube.com/watch?v=5YNje7ZIaEM"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "alg-01-reading",
+          "label": "Read Artin, Chapter 16.1–16.2 and reconstruct the main definitions."
+        },
+        {
+          "id": "alg-01-practice",
+          "label": "Derive Newton’s sums for low-degree cases and solve selected symmetric-polynomial problems."
+        },
+        {
+          "id": "alg-01-review",
+          "label": "Write one page connecting roots, coefficients, resultants and discriminants."
+        }
+      ],
+      "links": [
+        {
+          "label": "MIT 18.702 Problem Set 8 — symmetric functions and discriminant",
+          "url": "https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/9c85895a8a837cfa92ce17ed389899c4_MIT18_702S11_pset8.pdf"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Olympiad Inequalities",
+      "topics": "Cauchy–Schwarz, AM–GM, Muirhead and Schur",
+      "lectures": [
+        {
+          "id": "Th53TBSItRs",
+          "lesson": 1,
+          "chapter": "ALG-02 - Olympiad Inequalities",
+          "title": "Cauchy–Schwarz and AM–GM Inequality",
+          "teacher": "Cheenta Academy",
+          "url": "https://www.youtube.com/watch?v=Th53TBSItRs"
+        },
+        {
+          "id": "YSw1svQgOiQ",
+          "lesson": 2,
+          "chapter": "ALG-02 - Olympiad Inequalities",
+          "title": "AM–GM and Muirhead’s Inequality",
+          "teacher": "CNCM",
+          "url": "https://www.youtube.com/watch?v=YSw1svQgOiQ"
+        },
+        {
+          "id": "qr3Y8Jlf0QU",
+          "lesson": 3,
+          "chapter": "ALG-02 - Olympiad Inequalities",
+          "title": "Schur’s Inequality",
+          "teacher": "Cheenta Academy with Raghunath",
+          "url": "https://www.youtube.com/watch?v=qr3Y8Jlf0QU"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "alg-02-reading",
+          "label": "Read the relevant sections of Mildorf’s Olympiad Inequalities."
+        },
+        {
+          "id": "alg-02-practice",
+          "label": "Write 5–8 independent proofs without copying the supplied solution."
+        },
+        {
+          "id": "alg-02-review",
+          "label": "For each proof, record why the chosen inequality applies and its equality case."
+        }
+      ],
+      "links": [
+        {
+          "label": "Thomas J. Mildorf — Olympiad Inequalities",
+          "url": "https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Linear Algebra and Matrices",
+      "topics": "Linear transformations, matrix multiplication, determinants and eigenvectors",
+      "lectures": [
+        {
+          "id": "kYB8IZa5AuE",
+          "lesson": 1,
+          "chapter": "ALG-03 - Linear Algebra and Matrices",
+          "title": "Linear Transformations and Matrices",
+          "teacher": "3Blue1Brown",
+          "url": "https://www.youtube.com/watch?v=kYB8IZa5AuE"
+        },
+        {
+          "id": "FX4C-JpTFgY",
+          "lesson": 2,
+          "chapter": "ALG-03 - Linear Algebra and Matrices",
+          "title": "Multiplication and Inverse Matrices",
+          "teacher": "MIT OpenCourseWare · Gilbert Strang",
+          "url": "https://www.youtube.com/watch?v=FX4C-JpTFgY"
+        },
+        {
+          "id": "srxexLishgY",
+          "lesson": 3,
+          "chapter": "ALG-03 - Linear Algebra and Matrices",
+          "title": "Properties of Determinants",
+          "teacher": "MIT OpenCourseWare · Gilbert Strang",
+          "url": "https://www.youtube.com/watch?v=srxexLishgY"
+        },
+        {
+          "id": "cdZnhQjJu4I",
+          "lesson": 4,
+          "chapter": "ALG-03 - Linear Algebra and Matrices",
+          "title": "Eigenvalues and Eigenvectors",
+          "teacher": "MIT OpenCourseWare · Gilbert Strang",
+          "url": "https://www.youtube.com/watch?v=cdZnhQjJu4I"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "alg-03-reading",
+          "label": "Read selected sections from Artin, Chapters 1 and 4."
+        },
+        {
+          "id": "alg-03-practice",
+          "label": "Complete matched exercises from the MIT 18.06SC resource index."
+        },
+        {
+          "id": "alg-03-review",
+          "label": "Explain one matrix as a transformation and interpret one eigenvector geometrically."
+        }
+      ],
+      "links": [
+        {
+          "label": "MIT 18.06SC resource index",
+          "url": "https://www.ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Groups and Symmetry",
+      "topics": "Groups, examples, homomorphisms and Lagrange’s theorem",
+      "lectures": [
+        {
+          "id": "RnqwFpyqJFw",
+          "lesson": 1,
+          "chapter": "ALG-04 - Groups and Symmetry",
+          "title": "Group Theory 1",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=RnqwFpyqJFw"
+        },
+        {
+          "id": "m4yYeTGe-ic",
+          "lesson": 2,
+          "chapter": "ALG-04 - Groups and Symmetry",
+          "title": "Definition of a Group and Basic Examples",
+          "teacher": "Michael Penn",
+          "url": "https://www.youtube.com/watch?v=m4yYeTGe-ic"
+        },
+        {
+          "id": "SUh7JBbKqVw",
+          "lesson": 3,
+          "chapter": "ALG-04 - Groups and Symmetry",
+          "title": "Group Homomorphisms",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=SUh7JBbKqVw"
+        },
+        {
+          "id": "C4TOnWGGbZk",
+          "lesson": 4,
+          "chapter": "ALG-04 - Groups and Symmetry",
+          "title": "Lagrange’s Theorem",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=C4TOnWGGbZk"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "alg-04-reading",
+          "label": "Read Artin, Chapter 2, keeping a glossary of definitions and examples."
+        },
+        {
+          "id": "alg-04-practice",
+          "label": "Attempt suitable problems from MIT 18.701 Problem Sets 1–2."
+        },
+        {
+          "id": "alg-04-review",
+          "label": "Prove one small result from definitions and identify each hypothesis used."
+        }
+      ],
+      "links": [
+        {
+          "label": "MIT 18.701 assignments",
+          "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/assignments/"
+        },
+        {
+          "label": "MIT 18.701 Problem Set 1",
+          "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/318daf0446ed3151c72a9c12c29830c6_MIT18_701F10_pset1.pdf"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Rings, Fields and Galois Theory",
+      "topics": "Rings, field extensions, splitting fields and the Galois viewpoint",
+      "lectures": [
+        {
+          "id": "4WmIDodIgac",
+          "lesson": 1,
+          "chapter": "ALG-05 - Rings, Fields and Galois Theory",
+          "title": "Rings and Modules 1",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=4WmIDodIgac"
+        },
+        {
+          "id": "ccc4EYeytYo",
+          "lesson": 2,
+          "chapter": "ALG-05 - Rings, Fields and Galois Theory",
+          "title": "Introduction to Galois Theory",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=ccc4EYeytYo"
+        },
+        {
+          "id": "HpzVD1l3Olw",
+          "lesson": 3,
+          "chapter": "ALG-05 - Rings, Fields and Galois Theory",
+          "title": "Field Extensions",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=HpzVD1l3Olw"
+        },
+        {
+          "id": "9V7udyr2rxA",
+          "lesson": 4,
+          "chapter": "ALG-05 - Rings, Fields and Galois Theory",
+          "title": "Splitting Fields",
+          "teacher": "Richard Borcherds",
+          "url": "https://www.youtube.com/watch?v=9V7udyr2rxA"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "alg-05-reading",
+          "label": "Survey the accessible sections of Artin, Chapters 11, 15 and 16."
+        },
+        {
+          "id": "alg-05-practice",
+          "label": "Attempt selected easier exercises, then one Algebra II challenge only if the definitions are secure."
+        },
+        {
+          "id": "alg-05-review",
+          "label": "Draw the dependency chain: polynomial → field extension → splitting field → symmetry group."
+        }
+      ],
+      "links": [
+        {
+          "label": "MIT 18.702 Algebra II assignments",
+          "url": "https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/assignments/"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Mixed Algebra and Inequalities",
+      "topics": "Mixed problems, proof methods and equality conditions",
+      "lectures": [],
+      "tasks": [
+        {
+          "id": "alg-06-mixed",
+          "label": "Solve 12 mixed Class 11–12 algebra problems without notes; show every important step."
+        },
+        {
+          "id": "alg-06-inequalities",
+          "label": "Solve 6 inequality problems independently and state the equality condition in each."
+        },
+        {
+          "id": "alg-06-repair",
+          "label": "Classify every error, study only the missing idea, then solve the failed questions again from a blank page."
+        }
+      ],
+      "links": [
+        {
+          "label": "Thomas J. Mildorf — Olympiad Inequalities",
+          "url": "https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf"
+        },
+        {
+          "label": "MIT 18.701 assignments",
+          "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/assignments/"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Timed Assessment and Corrections",
+      "topics": "Timed mixed problems, explanations and corrections",
+      "lectures": [],
+      "tasks": [
+        {
+          "id": "alg-07-paper",
+          "label": "Complete a 20-question mixed algebra paper under a strict two-hour limit, without notes or solution videos."
+        },
+        {
+          "id": "alg-07-score",
+          "label": "Reach at least 70%, then reattempt every incorrect or skipped question without copying a solution."
+        },
+        {
+          "id": "alg-07-explain",
+          "label": "Explain five methods from memory, including when each applies and one situation where it does not."
+        }
+      ],
+      "links": [
+        {
+          "label": "MIT 18.06SC exercise and solution index",
+          "url": "https://www.ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/"
+        },
+        {
+          "label": "MIT 18.701 assignments",
+          "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/assignments/"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Michael Artin, Algebra, 2nd edition",
+      "detail": "Primary textbook for the selected reading.",
+      "url": "https://www.pearson.com/en-us/subject-catalog/p/algebra-classic-version/P200000006078/9780137980994"
+    },
+    {
+      "label": "MIT 18.701 Algebra I syllabus",
+      "detail": "Course topics and prerequisites.",
+      "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/syllabus/"
+    },
+    {
+      "label": "MIT 18.701 readings",
+      "detail": "Textbook reading assignments.",
+      "url": "https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/readings/"
+    },
+    {
+      "label": "MIT 18.06SC Linear Algebra",
+      "detail": "Exercises, solutions and lecture resources for Day 3.",
+      "url": "https://www.ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/"
+    }
+  ]
+}
