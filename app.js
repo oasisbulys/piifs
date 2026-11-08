@@ -1,4 +1,4 @@
-import {makeCatalogue, escapeHTML as esc, lectureURL, lectureMeta} from './catalogue.js?v=20261108-clean-chapters';
+import {makeCatalogue, escapeHTML as esc, lectureURL, lectureMeta} from './catalogue.js?v=20261108-original-layout';
 import {homePage} from './homepage.js';
 
 const app = document.getElementById('app');
@@ -22,12 +22,12 @@ function courseIndex() {
 }
 
 function coursePage(course, chapter) {
-  if (chapter) return breadcrumb(course) + heading(chapter.title) + lectureList(course,chapter) + '<p class="breadcrumb"><a href="#courses/' + course.id + '">All topics in ' + esc(course.title) + '</a></p>';
-  return breadcrumb() + heading(course.title) + '<div class="course-item course-overview"><div class="course-image">' + imageMarkup(course) + '</div><div class="course-copy"><p>' + esc(course.description) + '</p><p class="course-source">' + esc(course.source) + '</p><p><a href="#materials">Reading materials</a></p></div></div><nav class="contents" aria-label="Course topics"><h2>Topics</h2><ul>' + course.chapters.map(topic => '<li><a href="#courses/' + course.id + '/' + topic.id + '">' + esc(topic.title) + '</a></li>').join('') + '</ul></nav>' + course.chapters.map(topic => '<section class="chapter-section"><h2><a href="#courses/' + course.id + '/' + topic.id + '">' + esc(topic.title) + '</a></h2>' + lectureList(course,topic) + '</section>').join('');
+  if (chapter) return breadcrumb(course) + heading(chapter.title) + (chapter.description ? '<p class="catalogue-intro">' + esc(chapter.description) + '</p>' : '') + lectureList(course,chapter) + '<p class="breadcrumb"><a href="#courses/' + course.id + '">All topics in ' + esc(course.title) + '</a></p>';
+  return breadcrumb() + heading(course.title) + '<div class="course-item course-overview"><div class="course-image">' + imageMarkup(course) + '</div><div class="course-copy"><p>' + esc(course.description) + '</p><p class="course-source">' + esc(course.source) + '</p><p><a href="#materials">Reading materials</a></p></div></div><nav class="contents" aria-label="Course topics"><h2>Topics</h2><ul>' + course.chapters.map(topic => '<li><a href="#courses/' + course.id + '/' + topic.id + '">' + esc(topic.title) + '</a></li>').join('') + '</ul></nav>' + course.chapters.map(topic => '<section class="chapter-section"><h2><a href="#courses/' + course.id + '/' + topic.id + '">' + esc(topic.title) + '</a></h2>' + (topic.description ? '<p class="chapter-description">' + esc(topic.description) + '</p>' : '') + lectureList(course,topic) + '</section>').join('');
 }
 
 function lecturePage(course, chapter, lecture) {
-  return breadcrumb(course,chapter) + heading(lecture.title) + '<p class="lecture-meta">' + esc(lectureMeta(lecture)) + '</p><div class="video-mount"><iframe src="https://www.youtube-nocookie.com/embed/' + lecture.id + '?rel=0&amp;playsinline=1" title="' + esc(lecture.title) + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><p class="video-source">' + external(lecture.url,'Original video') + (lecture.sourceUrl ? ' · ' + external(lecture.sourceUrl,'Publisher lesson and notes') : '') + ' · Quality and subtitles are available in the video controls.</p><section class="chapter-section"><h2>' + esc(chapter.title) + '</h2>' + lectureList(course,chapter,lecture.id) + '</section>';
+  return breadcrumb(course,chapter) + heading(lecture.title) + '<p class="lecture-meta">' + esc(lectureMeta(lecture)) + '</p><div class="video-mount"><iframe src="https://www.youtube-nocookie.com/embed/' + lecture.id + '?rel=0&amp;playsinline=1" title="' + esc(lecture.title) + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><p class="video-source">' + external(lecture.url,'Original video') + ' · Quality and subtitles are available in the video controls.</p><section class="chapter-section"><h2>' + esc(chapter.title) + '</h2>' + lectureList(course,chapter,lecture.id) + '</section>';
 }
 
 function materialList(items) {

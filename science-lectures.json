@@ -1025,6 +1025,16 @@
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "r2lx4cIEAk4",
+      "title": "Chemical Reactivity: SOMO, HOMO, and LUMO",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=r2lx4cIEAk4",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-15",
+      "duration": 2831
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
       "id": "OTd-ww5K0j8",
       "title": "Introduction to Understanding Organic Reactions",
       "teacher": "James S. Nowick · UC Irvine",
@@ -1225,6 +1235,16 @@
     },
     {
       "chapter": "Hydrocarbons",
+      "id": "sWbIMptr2to",
+      "title": "Benzene Structure and Isomer Counting",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=sWbIMptr2to",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-24",
+      "duration": 3015
+    },
+    {
+      "chapter": "Hydrocarbons",
       "id": "S9D3dio0Vms",
       "title": "Aromaticity",
       "teacher": "David Van Vranken · UC Irvine",
@@ -1252,144 +1272,6 @@
       "series": "CHEM 51B",
       "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_25_organic_chemistry_electrophilic_aromatic_substitution_part_2.html",
       "duration": 3160
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "WSYEApgJkh0",
-      "title": "How Do You Know?",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=WSYEApgJkh0",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-1",
-      "duration": 2800
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "bzXnDn0i7-k",
-      "title": "Force Laws, Lewis Structures and Resonance",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=bzXnDn0i7-k",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-2",
-      "duration": 3012
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "r2lx4cIEAk4",
-      "title": "Chemical Reactivity: SOMO, HOMO, and LUMO",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=r2lx4cIEAk4",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-15",
-      "duration": 2831
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "sWbIMptr2to",
-      "title": "Determining Chemical Structure by Isomer Counting (1869)",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=sWbIMptr2to",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-24",
-      "duration": 3015
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "Trr2QgIyRNY",
-      "title": "Models in 3D Space (1869-1877); Optical Isomers",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=Trr2QgIyRNY",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-25",
-      "duration": 2942
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "bj13zmUE7y0",
-      "title": "Van't Hoff's Tetrahedral Carbon and Chirality",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=bj13zmUE7y0",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-26",
-      "duration": 2906
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "Pji0jGo3xww",
-      "title": "Communicating Molecular Structure in Diagrams and Words",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=Pji0jGo3xww",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-27",
-      "duration": 3095
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "hpQnRwVjhDk",
-      "title": "Potential Energy Surfaces, Transition State Theory and Reaction Mechanism",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=hpQnRwVjhDk",
-      "series": "CHEM 125a",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-37",
-      "duration": 2864
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "5sLb4DS0LM8",
-      "title": "Mechanism: How Energies and Kinetic Order Influence Reaction Rates",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=5sLb4DS0LM8",
-      "series": "CHEM 125b",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-1",
-      "duration": 2940
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "WuP0esNPchs",
-      "title": "Rate and Selectivity in Radical-Chain Reactions",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=WuP0esNPchs",
-      "series": "CHEM 125b",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-3",
-      "duration": 2806
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "mPypNRzWUeE",
-      "title": "Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=mPypNRzWUeE",
-      "series": "CHEM 125b",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-11",
-      "duration": 3127
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "QF2UXd-uC1M",
-      "title": "Linear and Cyclic Conjugation Theory; 4n+2 Aromaticity",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=QF2UXd-uC1M",
-      "series": "CHEM 125b",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-18",
-      "duration": 2866
-    },
-    {
-      "chapter": "Organic Chemistry: Conceptual Companion",
-      "id": "Y_g1t5d0tlI",
-      "title": "Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg",
-      "teacher": "J. Michael McBride · Yale University",
-      "url": "https://www.youtube.com/watch?v=Y_g1t5d0tlI",
-      "series": "CHEM 125b",
-      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-26",
-      "duration": 3048
-    },
-    {
-      "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "AFS4JbQGB0c",
-      "title": "Introduction to Organic Chemistry",
-      "teacher": "MIT OpenCourseWare",
-      "url": "https://www.youtube.com/watch?v=AFS4JbQGB0c",
-      "duration": 3130
     },
     {
       "chapter": "Transition Metals",

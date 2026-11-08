@@ -25,12 +25,12 @@ export function cleanChapter(value) {
   return value.replace(/^(?:ALG-)?\d+[A-Z]?\s*-\s*/,'').replace(/^Formative\s*-\s*/,'').replace(/Schrodinger/,'Schrödinger').replace(/^Cell The Unit of Life$/,'Cell: The Unit of Life').replace(/^Organic Chemistry Basic Principles and Techniques$/,'Organic Chemistry: Basic Principles and Techniques');
 }
 
-function chaptersFor(lectures) {
+function chaptersFor(lectures, descriptions = {}) {
   const chapters = new Map();
   for (const lecture of lectures) {
     const title = cleanChapter(lecture.chapter);
     const id = slug(title);
-    if (!chapters.has(id)) chapters.set(id, {id,title,lectures:[]});
+    if (!chapters.has(id)) chapters.set(id, {id,title,description:descriptions[title] || '',lectures:[]});
     chapters.get(id).lectures.push({...lecture,title:cleanTitle(lecture)});
   }
   return [...chapters.values()];
@@ -38,17 +38,16 @@ function chaptersFor(lectures) {
 
 export function makeCatalogue(math, algebra, science, images) {
   const definitions = [
-    {id:'general-mathematics',title:'General Mathematics',description:'Polynomials, inequalities, linear algebra, groups, fields and the ideas of calculus.',source:'Selected lectures in algebra and calculus.',lectures:[...algebra.days.flatMap(day => day.lectures),...math.lessons.filter(lecture => lecture.teacher === '3Blue1Brown' && lecture.chapter.includes('Limits and Derivatives')).map(lecture => ({...lecture,chapter:'Calculus'}))]},
+    {id:'general-mathematics',title:'General Mathematics',description:'Polynomials, inequalities, linear algebra, groups, fields and the ideas of calculus.',source:'Selected lectures in algebra and calculus.',lectures:[...algebra.days.flatMap(day => day.lectures),...math.lessons.filter(lecture => lecture.teacher === '3Blue1Brown' && lecture.chapter.includes('Limits and Derivatives')).map(lecture => ({...lecture,chapter:'Calculus'}))],descriptions:Object.fromEntries(algebra.days.map(day => [cleanChapter(day.lectures[0]?.chapter || day.title),day.topics]))},
     {id:'academic-mathematics',title:'Academic Mathematics',description:'The mathematics library: sets and functions, trigonometry, algebra, geometry, calculus, statistics and probability.',source:'School mathematics with supplementary university lectures.',lectures:math.lessons},
-    {id:'general-biology',title:'General Biology',description:'Diversity, cells and biomolecules, plant biology, human physiology and neural systems.',source:'Paul Andersen · Bozeman Science, MIT, Yale, UC San Diego and Stanford.',lectures:science.biology},
+    {id:'general-biology',title:'General Biology',description:'Diversity, cells and biomolecules, plant biology, human physiology and neural systems.',source:'MIT, Yale, UC San Diego, Stanford and Paul Andersen · Bozeman Science.',lectures:science.biology},
     {id:'chemistry',title:'Chemistry',description:'Atomic structure, bonding, thermodynamics, equilibrium, redox, organic chemistry and reaction kinetics.',source:'MIT OpenCourseWare; James S. Nowick and David Van Vranken · UC Irvine; J. Michael McBride · Yale.',lectures:science.chemistry}
   ];
-  return definitions.map(({lectures,...course}) => {
-    const chapters=chaptersFor(lectures);
+  return definitions.map(({lectures,descriptions,...course}) => {
+    const chapters=chaptersFor(lectures,descriptions);
     if (course.id === 'chemistry') {
-      const sequence=['Chemical Principles','Structure of Atom','Classification and Periodicity','Chemical Bonding and Molecular Structure','Chemical Thermodynamics','Equilibrium','Redox Reactions','Organic Chemistry: Basic Principles and Techniques','Hydrocarbons','Organic Chemistry: Conceptual Companion','Atomic Theory and Quantum Chemistry','Transition Metals','Chemical Kinetics'];
-      const rank = title => sequence.includes(title) ? sequence.indexOf(title) : sequence.length;
-      chapters.sort((a,b)=>rank(a.title)-rank(b.title));
+      const sequence=['Chemical Principles','Structure of Atom','Classification and Periodicity','Chemical Bonding and Molecular Structure','Chemical Thermodynamics','Equilibrium','Redox Reactions','Organic Chemistry: Basic Principles and Techniques','Hydrocarbons','Atomic Theory and Quantum Chemistry','Transition Metals','Chemical Kinetics'];
+      chapters.sort((a,b)=>sequence.indexOf(a.title)-sequence.indexOf(b.title));
     }
     return {...course,art:images.find(image => image.course === course.title),chapters};
   });
@@ -59,7 +58,7 @@ export function lectureURL(course, chapter, lecture) {
 }
 
 export function lectureMeta(lecture) {
-  const parts = [lecture.teacher, lecture.series];
+  const parts = [lecture.teacher];
   if (lecture.published && /^\d{8}$/.test(lecture.published)) {
     const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
     parts.push(`${Number(lecture.published.slice(6))} ${months[Number(lecture.published.slice(4,6))-1]} ${lecture.published.slice(0,4)}`);
