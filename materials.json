@@ -129,34 +129,43 @@
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Organic — Topic-wise Organic Chemistry Problems",
-    "author": "SATHEE · IIT Kanpur",
-    "format": "Question bank with worked solutions",
+    "title": "Project Silicon — Organic Chemistry Practice Test",
+    "author": "Dr. Sarah Tabacco · MIT OpenCourseWare",
+    "format": "5.12 Practice Exam 1 · CC BY-NC-SA 4.0",
     "subject": "Organic Chemistry",
-    "url": "https://sathee.iitk.ac.in/pyqs/jee/chapterwise/chemistry/organic-chemistry/"
+    "url": "tests/silicon.pdf",
+    "source": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project MOT — Mathematical Olympiad Papers and Solutions",
-    "author": "Homi Bhabha Centre for Science Education · TIFR",
-    "format": "Past question papers and solutions",
+    "title": "Project Thorium — Number Theory Practice Problems",
+    "author": "Prof. Abhinav Kumar · MIT OpenCourseWare",
+    "format": "18.781 Exam 1 Practice · CC BY-NC-SA 4.0",
     "subject": "Mathematics",
-    "url": "https://olympiads.hbcse.tifr.res.in/past-papers-sample-questions/"
+    "url": "tests/thorium.pdf",
+    "description": "An expanded practice set, not a representative exam.",
+    "source": "https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Core — Full-Length Practice Papers",
-    "author": "National Testing Agency",
-    "format": "Official question-paper archive",
-    "subject": "Mathematics · Physics · Chemistry",
-    "url": "https://jeemain.nta.nic.in/document-category/archive/"
+    "title": "Project Scandium — Chemical Science Practice Test",
+    "author": "Prof. Catherine Drennan · MIT OpenCourseWare",
+    "format": "5.111 Practice Third Hour Exam · CC BY-NC-SA 4.0",
+    "subject": "Chemistry",
+    "url": "tests/scandium.pdf",
+    "source": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Challenge — Full-Length Problem Papers",
-    "author": "Official question-paper archive",
-    "format": "Past-paper archive · two-paper sets",
-    "subject": "Mathematics · Physics · Chemistry",
-    "url": "https://jeeadv.ac.in/archive.html"
+    "title": "Project Titanium — Classical Mechanics Practice Test",
+    "author": "Dr. George Stephans · MIT OpenCourseWare",
+    "format": "8.01L Practice Exam 1 · CC BY-NC-SA 4.0",
+    "subject": "Physics",
+    "url": "tests/titanium.pdf",
+    "source": "https://ocw.mit.edu/courses/8-01l-physics-i-classical-mechanics-fall-2005/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   }
 ]

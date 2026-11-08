@@ -10,7 +10,9 @@ const readJSON = async path => {
 };
 const external = (url, text, className='') => /^https:\/\//.test(url)
   ? '<a href="' + esc(url) + '" target="_blank" rel="noopener"' + (className ? ' class="' + className + '"' : '') + '>' + esc(text) + '</a>'
-  : esc(text);
+  : /^tests\/[a-z]+\.pdf$/.test(url)
+    ? '<a href="./' + esc(url) + '" download' + (className ? ' class="' + className + '"' : '') + '>' + esc(text) + '</a>'
+    : esc(text);
 const imageMarkup = course => '<img src="' + esc(course.art.display) + '" alt="' + esc(course.art.alt) + '" width="300" height="100" style="object-position:' + esc(course.art.objectPosition) + '" loading="lazy" decoding="async">';
 const heading = text => '<header class="page-heading"><h1 tabindex="-1">' + esc(text) + '</h1></header>';
 const breadcrumb = (course, chapter) => '<p class="breadcrumb"><a href="#courses">Courses</a>' + (course ? '<span>/</span><a href="#courses/' + course.id + '">' + esc(course.title) + '</a>' : '') + (chapter ? '<span>/</span><a href="#courses/' + course.id + '/' + chapter.id + '">' + esc(chapter.title) + '</a>' : '') + '</p>';
@@ -31,7 +33,7 @@ function lecturePage(course, chapter, lecture) {
 }
 
 function materialList(items) {
-  return '<ul class="material-list">' + items.map(item => '<li>' + external(item.url,item.title,'material-title') + '<p class="material-meta">' + esc([item.author,item.format,item.subject].filter(Boolean).join(' · ')) + '</p>' + (item.description ? '<p class="material-meta">' + esc(item.description) + '</p>' : '') + '</li>').join('') + '</ul>';
+  return '<ul class="material-list">' + items.map(item => '<li>' + external(item.url,item.title,'material-title') + '<p class="material-meta">' + esc([item.author,item.format,item.subject].filter(Boolean).join(' · ')) + '</p>' + (item.description ? '<p class="material-meta">' + esc(item.description) + '</p>' : '') + (item.source || item.licenseUrl ? '<p class="material-meta">' + (item.source ? external(item.source,'Original course') : '') + (item.source && item.licenseUrl ? ' · ' : '') + (item.licenseUrl ? external(item.licenseUrl,'License terms') : '') + '</p>' : '') + '</li>').join('') + '</ul>';
 }
 
 function materialsPage() {
