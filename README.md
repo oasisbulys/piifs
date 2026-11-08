@@ -20,4 +20,20 @@ static files unchanged.
 This repository contains only the public catalogue, display images and fonts.
 It contains no local video downloads, private records or AI service.
 
+## Science catalogue
+
+Organic chemistry follows James S. Nowick's UC Irvine CHEM 51A course, with
+David Van Vranken's CHEM 51B selections for hydrocarbons and selected Yale
+CHEM 125a/125b lectures by J. Michael McBride as an optional conceptual companion.
+Biology combines Paul Andersen's Bozeman Science lessons with the existing MIT,
+Yale, UC San Diego and Stanford lectures. Plant Kingdom, Animal Kingdom and
+Plant Growth and Development have their own chapters.
+
+New lecture entries in `science-lectures.json` include a `sourceUrl` pointing to
+the publisher's lesson page. Their video IDs, durations and embed availability
+were checked on 8 November 2026. `chapterGuides` contains study guidance and
+external reading links, including NCERT supplements for syllabus details and
+diagrams. NCERT's PDFs could not be retrieved during this check; video playback
+and external resources remain subject to their publishers' availability.
+
 Instagram: [@piifs.india](https://www.instagram.com/piifs.india/).

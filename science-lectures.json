@@ -2,6 +2,36 @@
   "biology": [
     {
       "chapter": "Diversity",
+      "id": "tYL_8gv7RiE",
+      "title": "Classification of Life",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=tYL_8gv7RiE",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/classification-of-life",
+      "duration": 371
+    },
+    {
+      "chapter": "Diversity",
+      "id": "7xpONWAj4Go",
+      "title": "Hierarchy of Life",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=7xpONWAj4Go",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/hierarchy-of-life",
+      "duration": 373
+    },
+    {
+      "chapter": "Diversity",
+      "id": "bILvTe2_FEE",
+      "title": "Essential Characteristics of Life",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=bILvTe2_FEE",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/005-essential-characteristics-of-life",
+      "duration": 600
+    },
+    {
+      "chapter": "Diversity",
       "id": "zkTvj7vpb6s",
       "title": "Species and Speciation",
       "teacher": "YaleCourses",
@@ -38,57 +68,143 @@
     },
     {
       "chapter": "Biological Classification",
-      "id": "zKVsIV1B2tY",
-      "title": "Biological Classification — Comprehensive Lecture",
-      "teacher": "Vipin Sir",
-      "url": "https://www.youtube.com/watch?v=zKVsIV1B2tY",
-      "duration": 11916,
-      "series": "NCERT line-by-line"
+      "id": "wGVgIcTpZkk",
+      "title": "Three Domains of Life",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=wGVgIcTpZkk",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/three-domains-of-life",
+      "duration": 449
     },
     {
       "chapter": "Biological Classification",
-      "id": "dkGIjBTRbGU",
-      "title": "Biological Classification — Overview",
-      "teacher": "Vipin Sir / Ozone Classes",
-      "url": "https://www.youtube.com/watch?v=dkGIjBTRbGU",
-      "duration": 6486,
-      "series": "NCERT quick one-shot"
+      "id": "W25nI9kpxtU",
+      "title": "Archaea",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=W25nI9kpxtU",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/archaea",
+      "duration": 436
+    },
+    {
+      "chapter": "Biological Classification",
+      "id": "h-z9-9OOWC4",
+      "title": "Bacteria",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=h-z9-9OOWC4",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/bacteria",
+      "duration": 664
+    },
+    {
+      "chapter": "Biological Classification",
+      "id": "8deF3Rw4ti4",
+      "title": "Protists",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=8deF3Rw4ti4",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/protists",
+      "duration": 307
+    },
+    {
+      "chapter": "Biological Classification",
+      "id": "dj9m7Oc36wM",
+      "title": "Fungi",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=dj9m7Oc36wM",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/fungi",
+      "duration": 554
+    },
+    {
+      "chapter": "Biological Classification",
+      "id": "L8oHs7G_syI",
+      "title": "Viruses",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=L8oHs7G_syI",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/viruses",
+      "duration": 486
+    },
+    {
+      "chapter": "Plant Kingdom",
+      "id": "X4L3r_XJW0I",
+      "title": "Plants",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=X4L3r_XJW0I",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/plants",
+      "duration": 466
+    },
+    {
+      "chapter": "Animal Kingdom",
+      "id": "wd-QnKlfZHI",
+      "title": "Animals",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=wd-QnKlfZHI",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/animals",
+      "duration": 488
     },
     {
       "chapter": "Morphology of Flowering Plants",
-      "id": "RkmJ8pGpmEg",
-      "title": "Morphology of Flowering Plants",
-      "teacher": "Vipin Sir",
-      "url": "https://www.youtube.com/watch?v=RkmJ8pGpmEg",
-      "duration": 13494,
-      "series": "NCERT line-by-line"
+      "id": "zHp_voyo7MY",
+      "title": "Plant Structure",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=zHp_voyo7MY",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/plant-structure",
+      "duration": 816
     },
     {
       "chapter": "Anatomy of Flowering Plants",
-      "id": "EAZjIdXKPcQ",
-      "title": "Anatomy of Flowering Plants",
-      "teacher": "Vipin Sir",
-      "url": "https://www.youtube.com/watch?v=EAZjIdXKPcQ",
-      "duration": 7638,
-      "series": "NCERT line-by-line"
+      "id": "zHp_voyo7MY",
+      "title": "Plant Structure",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=zHp_voyo7MY",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/plant-structure",
+      "duration": 816
+    },
+    {
+      "chapter": "Anatomy of Flowering Plants",
+      "id": "bsY8j8f54I0",
+      "title": "Plant Nutrition & Transport",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=bsY8j8f54I0",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/plant-nutrition-transport",
+      "duration": 846
     },
     {
       "chapter": "Structural Organisation in Animals",
-      "id": "oTUBhbGD0z0",
-      "title": "Structural Organisation in Animals",
-      "teacher": "Physics Wallah",
-      "url": "https://www.youtube.com/watch?v=oTUBhbGD0z0",
-      "duration": 3228,
-      "series": "NCERT + diagrams one-shot"
+      "id": "y2N_b0qwvxY",
+      "title": "Anatomy and Physiology: Tissues, Form and Function",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=y2N_b0qwvxY",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/anatomy-and-physiology-introduction",
+      "duration": 685
     },
     {
       "chapter": "Structural Organisation in Animals",
-      "id": "tKNjCRdnWwo",
-      "title": "Structural Organisation in Animals & Plants — Comprehensive Lecture",
-      "teacher": "Vipin Sir",
-      "url": "https://www.youtube.com/watch?v=tKNjCRdnWwo",
-      "duration": 13236,
-      "series": "NCERT combined one-shot"
+      "id": "jp6L5emD8rw",
+      "title": "Cellular Specialization",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=jp6L5emD8rw",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/044-cellular-specialization",
+      "duration": 556
+    },
+    {
+      "chapter": "Structural Organisation in Animals",
+      "id": "dZQMjZRv16E",
+      "title": "Organ Systems",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=dZQMjZRv16E",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/045-organ-systems",
+      "duration": 586
     },
     {
       "chapter": "Cell The Unit of Life",
@@ -116,24 +232,6 @@
       "url": "https://www.youtube.com/watch?v=Qfw0C0Ac-Tk",
       "duration": 2748,
       "series": "7.016"
-    },
-    {
-      "chapter": "Cell The Unit of Life",
-      "id": "ylGkeIGOml0",
-      "title": "Cell: The Unit of Life — NCERT Line by Line",
-      "teacher": "Vipin Sir",
-      "url": "https://www.youtube.com/watch?v=ylGkeIGOml0",
-      "duration": 14490,
-      "series": "NCERT line-by-line"
-    },
-    {
-      "chapter": "Cell The Unit of Life",
-      "id": "hJi3S1haN3Y",
-      "title": "Cell: The Unit of Life — Concepts and PYQs",
-      "teacher": "Physics Wallah",
-      "url": "https://www.youtube.com/watch?v=hJi3S1haN3Y",
-      "duration": 6504,
-      "series": "Concepts + PYQs one-shot"
     },
     {
       "chapter": "Biomolecules",
@@ -181,24 +279,6 @@
       "series": "7.01SC"
     },
     {
-      "chapter": "Biomolecules",
-      "id": "6c1oeUmlXiE",
-      "title": "Biomolecules — Overview",
-      "teacher": "Vipin Sir",
-      "url": "https://www.youtube.com/watch?v=6c1oeUmlXiE",
-      "duration": 10710,
-      "series": "NEET 2026 one-shot"
-    },
-    {
-      "chapter": "Biomolecules",
-      "id": "vT1g75jyCKY",
-      "title": "Biomolecules — Overview",
-      "teacher": "Vipin Sir / Ozone Classes",
-      "url": "https://www.youtube.com/watch?v=vT1g75jyCKY",
-      "duration": 7998,
-      "series": "NCERT quick one-shot"
-    },
-    {
       "chapter": "Cell Cycle and Cell Division",
       "id": "rZjwF5z-Xfw",
       "title": "Cell Division & Segregating Genetic Material",
@@ -226,6 +306,16 @@
       "series": "7.01SC"
     },
     {
+      "chapter": "Photosynthesis in Higher Plants",
+      "id": "g78utcLQrJ4",
+      "title": "Photosynthesis",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=g78utcLQrJ4",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/photosynthesis",
+      "duration": 747
+    },
+    {
       "chapter": "Respiration in Plants",
       "id": "0ZxeQqtAVl0",
       "title": "Glycolysis, Respiration & Fermentation",
@@ -233,6 +323,26 @@
       "url": "https://www.youtube.com/watch?v=0ZxeQqtAVl0",
       "duration": 2526,
       "series": "7.01SC"
+    },
+    {
+      "chapter": "Respiration in Plants",
+      "id": "Gh2P5CmCC0M",
+      "title": "Cellular Respiration",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=Gh2P5CmCC0M",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/cellular-respiration",
+      "duration": 853
+    },
+    {
+      "chapter": "Plant Growth and Development",
+      "id": "HdwIcIkSoBY",
+      "title": "Plant Control",
+      "teacher": "Paul Andersen · Bozeman Science",
+      "url": "https://www.youtube.com/watch?v=HdwIcIkSoBY",
+      "series": "Biology",
+      "sourceUrl": "https://www.bozemanscience.com/plant-control",
+      "duration": 473
     },
     {
       "chapter": "Breathing and Exchange of Gases",
@@ -735,120 +845,543 @@
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "i-_oIwhlqYA",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=i-_oIwhlqYA",
-      "duration": 4150,
-      "published": "20210918"
+      "id": "5gYJlaGaE2M",
+      "title": "Syllabus and Introduction",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=5gYJlaGaE2M",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_01_organic_chemistry_ch_1_syllabus_and_introduction.html",
+      "duration": 3072
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "EkxmCOInPHw",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=EkxmCOInPHw",
-      "duration": 4096,
-      "published": "20210920"
+      "id": "2kOEGxLdpIY",
+      "title": "Bond Polarity, Formal Charge, Lewis Structures",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=2kOEGxLdpIY",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_02_organic_chemistry_ch_1_bond_polarity_formal_charge_lewis_structures.html",
+      "duration": 3037
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "gXv76tJdsRE",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=gXv76tJdsRE",
-      "duration": 4239,
-      "published": "20210923"
+      "id": "jcSoApTCU7Q",
+      "title": "Resonance Structures, Skeletal Structures, Bond Length",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=jcSoApTCU7Q",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_03_organic_chemistry_ch_1_resonance_structures_skeletal_structures_bond_length.html",
+      "duration": 3037
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "LMUo5HmByTs",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=LMUo5HmByTs",
-      "duration": 4118,
-      "published": "20210925"
+      "id": "N3eVRNqphCI",
+      "title": "Orbital Models of Structure and Bonding",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=N3eVRNqphCI",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_04_organic_chemistry_ch_1_orbital_models_of_structure_and_bonding.html",
+      "duration": 3051
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "oICmygbDTK4",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=oICmygbDTK4",
-      "duration": 3821,
-      "published": "20210928"
+      "id": "CQz5SEb7Qao",
+      "title": "Molecular Geometry, Acids and Bases",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=CQz5SEb7Qao",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_05_organic_chemistry_ch_1_molecular_geometry_ch_2_acids_and_bases.html",
+      "duration": 2986
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "5BGcijarf28",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=5BGcijarf28",
-      "duration": 4034,
-      "published": "20210930"
+      "id": "CMPJV1XIZAE",
+      "title": "Acid Strength and Equilibria",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=CMPJV1XIZAE",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_06_organic_chemistry_ch_2_acid_strength_and_equilibria.html",
+      "duration": 3002
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "WniLrGEAYJw",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=WniLrGEAYJw",
-      "duration": 3814,
-      "published": "20211002"
+      "id": "qnbssUANLLA",
+      "title": "Lewis Acids, Lewis Bases, and Organic Reaction Mechanisms",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=qnbssUANLLA",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_07_organic_chemistry_ch_2_lewis_acids_lewis_bases_and_organic_reaction_mechanisms.html",
+      "duration": 2975
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "sk5kNIe8tbI",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=sk5kNIe8tbI",
-      "duration": 3276,
-      "published": "20211005"
+      "id": "BU1_YS8F5DY",
+      "title": "Organic Compounds and Functional Groups",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=BU1_YS8F5DY",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_08_organic_chemistry_ch_3_organic_compounds_and_functional_groups.html",
+      "duration": 2053
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "tHFKNRLauB0",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=tHFKNRLauB0",
-      "duration": 4153,
-      "published": "20211011"
+      "id": "zFLFxbTiz-o",
+      "title": "Hydrocarbons, Alcohols and Amines",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=zFLFxbTiz-o",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_08a_organic_chemistry_ch_3_hydrocarbons_alcohols_amines.html",
+      "duration": 2975
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "5L84NBor0r0",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=5L84NBor0r0",
-      "duration": 3986,
-      "published": "20211012"
+      "id": "bbj-gmzBBFM",
+      "title": "Carbonyl Compounds, Intermolecular Forces",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=bbj-gmzBBFM",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_09_organic_chemistry_ch_3_carbonyl_compounds_intermolecular_forces.html",
+      "duration": 3135
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "uxd4A-eoj5A",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=uxd4A-eoj5A",
-      "duration": 3934,
-      "published": "20211014"
+      "id": "wbUzrQT82kc",
+      "title": "Introduction to Alkanes",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=wbUzrQT82kc",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_10_organic_chemistry_ch_4_introduction_to_alkanes.html",
+      "duration": 2164
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "CuBkiofPqrc",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=CuBkiofPqrc",
-      "duration": 2958,
-      "published": "20211016"
+      "id": "7ugiFQsvl0w",
+      "title": "Nomenclature of Alkanes, Conformations of Ethane",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=7ugiFQsvl0w",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_11_organic_chemistry_ch_4_nomenclature_of_alkanes_conformations_of_ethane.html",
+      "duration": 3143
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
-      "id": "WwSqoMRKztA",
-      "title": "Organic Chemistry: Basic Principles and Techniques",
-      "teacher": "Monica Bedi · Unacademy",
-      "url": "https://www.youtube.com/watch?v=WwSqoMRKztA",
-      "duration": 3625,
-      "published": "20211019"
+      "id": "fRRLzkHlktE",
+      "title": "Conformations of Butane and Cycloalkanes",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=fRRLzkHlktE",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_12_organic_chemistry_ch_4_conformations_of_butane_and_cycloalkanes.html",
+      "duration": 3089
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "tH2EJKh8TAE",
+      "title": "Conformations of Cyclohexane",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=tH2EJKh8TAE",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_13_organic_chemistry_ch_4_conformations_of_cyclohexane.html",
+      "duration": 2218
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "wv45BG9eb8Q",
+      "title": "Introduction to Stereochemistry",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=wv45BG9eb8Q",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_14_organic_chemistry_ch_5_introduction_to_stereochemistry.html",
+      "duration": 3069
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "kiFvlDKpVZM",
+      "title": "Assigning Tetrahedral Stereogenic Centers",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=kiFvlDKpVZM",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_15_organic_chemistry_ch_5_assigning_tetrahedral_stereogenic_centers.html",
+      "duration": 3146
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "Xawn7hcnjQM",
+      "title": "Meso Compounds",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=Xawn7hcnjQM",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_16_organic_chemistry_ch_5_meso_compounds.html",
+      "duration": 3052
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "rEEGWjGUu1Q",
+      "title": "Properties of Chiral Compounds",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=rEEGWjGUu1Q",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_17_organic_chemistry_ch_5_properties_of_chiral_compounds.html",
+      "duration": 3115
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "OTd-ww5K0j8",
+      "title": "Introduction to Understanding Organic Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=OTd-ww5K0j8",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_18_organic_chemistry_ch_6_introduction_to_understanding_organic_reactions.html",
+      "duration": 3036
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "3luHcTt76lw",
+      "title": "Energy Diagrams, Transition States, and Reaction Rates",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=3luHcTt76lw",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_19_organic_chemistry_ch_6_energy_diagrams_transition_states_and_reaction_rates.html",
+      "duration": 2884
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "15V6aUdVPsk",
+      "title": "Energetics of Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=15V6aUdVPsk",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_20_organic_chemistry_ch_6_energetics_of_reactions.html",
+      "duration": 2201
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "TFjNq7Ma6cE",
+      "title": "Introduction to Alkyl Halides and Nucleophilic Substitution",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=TFjNq7Ma6cE",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_21_organic_chemistry_ch_7_introduction_to_alkyl_halides_and_nuceophilic_substitution.html",
+      "duration": 2967
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "zjIhKM-SXIk",
+      "title": "Mechanistic and Stereochemical Aspects of SN2 Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=zjIhKM-SXIk",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_22_organic_chemistry_ch_7_mechanistic_and_stereochemical_aspects_of_sn2_reactions.html",
+      "duration": 3055
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "OnZzxr2x050",
+      "title": "Mechanistic and Stereochemical Aspects of SN1 Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=OnZzxr2x050",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_23_organic_chemistry_ch_7_mechanistic_and_stereochemical_aspects_of_sn1_reactions.html",
+      "duration": 2198
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "YMKWMqK0t7g",
+      "title": "Properties of Electrophiles, Leaving Groups, and Nucleophiles",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=YMKWMqK0t7g",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_24_organic_chemistry__ch_7_properties_of_electrophiles_leaving_groups_and_nucleophiles.html",
+      "duration": 3101
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "6-rgFIyvrpg",
+      "title": "Elimination Reactions. Introduction to E2 Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=6-rgFIyvrpg",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_25_organic_chemistry_ch_8_elimination_reactions_introduction_to_e2_reactions.html",
+      "duration": 2213
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "oCtbmuy7R3s",
+      "title": "Regiochemical and Stereochemical Course of E2 Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=oCtbmuy7R3s",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_26_organic_chemistry_ch_8_regiochemical_and_stereochemical_course_of_e2_reactions.html",
+      "duration": 3082
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "F_0l6pZR85k",
+      "title": "E1 Reactions. Comparison of SN1, SN2, E1, and E2 Reactions",
+      "teacher": "James S. Nowick · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=F_0l6pZR85k",
+      "series": "CHEM 51A",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_27_organic_chemistry__ch_8_e1_reactions_comparison_of_sn1_sn2_e1_and_e2_reactions.html",
+      "duration": 3000
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "cyUgJDeCbaw",
+      "title": "Alkenes, Part 1",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=cyUgJDeCbaw",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_06_organic_chemistry_alkenes.html",
+      "duration": 2883
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "s6p9VZXVilY",
+      "title": "Alkenes, Part 2",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=s6p9VZXVilY",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_07_organic_chemistry_alkenes_part_2.html",
+      "duration": 3216
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "57Q8hGGs_TE",
+      "title": "Alkenes, Part 3",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=57Q8hGGs_TE",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_08_organic_chemistry_alkenes_part_3.html",
+      "duration": 2799
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "DQWekDBCCdQ",
+      "title": "Alkynes, Part 1",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=DQWekDBCCdQ",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_09_organic_chemistry_alkenes_part_4.html",
+      "duration": 2695
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "d7qdeCYq3UY",
+      "title": "Alkynes, Part 2",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=d7qdeCYq3UY",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_10_organic_chemistry_alkynes_part_2.html",
+      "duration": 3030
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "kn7Ur_zqR44",
+      "title": "Alkynes, Part 3",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=kn7Ur_zqR44",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_11_organic_chemistry_alkynes_part_3.html",
+      "duration": 2580
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "Wk4qKw9duBc",
+      "title": "Alkynes, Part 4",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=Wk4qKw9duBc",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_12_organic_chemistry_alkynes_part_4.html",
+      "duration": 2862
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "_jZ8wEr5b6U",
+      "title": "Radicals",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=_jZ8wEr5b6U",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_20_organic_chemistry_radicals.html",
+      "duration": 3088
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "yaU_oVxKjsQ",
+      "title": "Conjugation, Resonance, Diels-Alder Reactions, Part 1",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=yaU_oVxKjsQ",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_21_organic_chemistry_conjugation_resonance_dielsalder_reactions_part_1.html",
+      "duration": 3109
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "9AiGXjzau1g",
+      "title": "Conjugation, Resonance, Diels-Alder Reactions, Part 2",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=9AiGXjzau1g",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_22_organic_chemistry_conjugation_resonance_dielsalder_reactions_part_2.html",
+      "duration": 2991
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "S9D3dio0Vms",
+      "title": "Aromaticity",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=S9D3dio0Vms",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_23_organic_chemistry_aromaticity.html",
+      "duration": 2590
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "INnPf41BV20",
+      "title": "Electrophilic Aromatic Substitution",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=INnPf41BV20",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_24_organic_chemistry_electrophilic_aromatic_substitution.html",
+      "duration": 3143
+    },
+    {
+      "chapter": "Hydrocarbons",
+      "id": "aX6pU6XLqmc",
+      "title": "Electrophilic Aromatic Substitution Part 2",
+      "teacher": "David Van Vranken · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=aX6pU6XLqmc",
+      "series": "CHEM 51B",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_51b_lec_25_organic_chemistry_electrophilic_aromatic_substitution_part_2.html",
+      "duration": 3160
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "WSYEApgJkh0",
+      "title": "How Do You Know?",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=WSYEApgJkh0",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-1",
+      "duration": 2800
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "bzXnDn0i7-k",
+      "title": "Force Laws, Lewis Structures and Resonance",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=bzXnDn0i7-k",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-2",
+      "duration": 3012
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "r2lx4cIEAk4",
+      "title": "Chemical Reactivity: SOMO, HOMO, and LUMO",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=r2lx4cIEAk4",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-15",
+      "duration": 2831
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "sWbIMptr2to",
+      "title": "Determining Chemical Structure by Isomer Counting (1869)",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=sWbIMptr2to",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-24",
+      "duration": 3015
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "Trr2QgIyRNY",
+      "title": "Models in 3D Space (1869-1877); Optical Isomers",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=Trr2QgIyRNY",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-25",
+      "duration": 2942
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "bj13zmUE7y0",
+      "title": "Van't Hoff's Tetrahedral Carbon and Chirality",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=bj13zmUE7y0",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-26",
+      "duration": 2906
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "Pji0jGo3xww",
+      "title": "Communicating Molecular Structure in Diagrams and Words",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=Pji0jGo3xww",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-27",
+      "duration": 3095
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "hpQnRwVjhDk",
+      "title": "Potential Energy Surfaces, Transition State Theory and Reaction Mechanism",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=hpQnRwVjhDk",
+      "series": "CHEM 125a",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125a/lecture-37",
+      "duration": 2864
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "5sLb4DS0LM8",
+      "title": "Mechanism: How Energies and Kinetic Order Influence Reaction Rates",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=5sLb4DS0LM8",
+      "series": "CHEM 125b",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-1",
+      "duration": 2940
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "WuP0esNPchs",
+      "title": "Rate and Selectivity in Radical-Chain Reactions",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=WuP0esNPchs",
+      "series": "CHEM 125b",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-3",
+      "duration": 2806
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "mPypNRzWUeE",
+      "title": "Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=mPypNRzWUeE",
+      "series": "CHEM 125b",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-11",
+      "duration": 3127
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "QF2UXd-uC1M",
+      "title": "Linear and Cyclic Conjugation Theory; 4n+2 Aromaticity",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=QF2UXd-uC1M",
+      "series": "CHEM 125b",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-18",
+      "duration": 2866
+    },
+    {
+      "chapter": "Organic Chemistry: Conceptual Companion",
+      "id": "Y_g1t5d0tlI",
+      "title": "Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg",
+      "teacher": "J. Michael McBride · Yale University",
+      "url": "https://www.youtube.com/watch?v=Y_g1t5d0tlI",
+      "series": "CHEM 125b",
+      "sourceUrl": "https://oyc.yale.edu/chemistry/chem-125b/lecture-26",
+      "duration": 3048
     },
     {
       "chapter": "Organic Chemistry Basic Principles and Techniques",
@@ -930,5 +1463,141 @@
       "url": "https://www.youtube.com/watch?v=pn1cxuBmhtI",
       "duration": 1984
     }
-  ]
+  ],
+  "chapterGuides": {
+    "biology": {
+      "Diversity": {
+        "description": "The Living World: begin with Paul Andersen on classification and the hierarchy of life, then explore species, speciation and evolutionary relationships with Stephen C. Stearns at Yale.",
+        "resources": [
+          {
+            "title": "NCERT: The Living World",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo101.pdf"
+          },
+          {
+            "title": "Yale EEB 122: complete course",
+            "url": "https://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122"
+          }
+        ]
+      },
+      "Biological Classification": {
+        "description": "Paul Andersen introduces the three domains and the major microbial groups. Compare this evolutionary framework with NCERT’s five-kingdom treatment; use the chapter for lichens, viroids and required examples.",
+        "resources": [
+          {
+            "title": "NCERT: Biological Classification",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo102.pdf"
+          }
+        ]
+      },
+      "Plant Kingdom": {
+        "description": "An overview of land-plant evolution, defining features and alternation of generations. Use NCERT for algae and the distinguishing features and examples of each plant group.",
+        "resources": [
+          {
+            "title": "NCERT: Plant Kingdom",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo103.pdf"
+          }
+        ]
+      },
+      "Animal Kingdom": {
+        "description": "An overview of animal evolution and the major invertebrate and vertebrate groups. Use NCERT for classification criteria, phylum and class features, and named examples.",
+        "resources": [
+          {
+            "title": "NCERT: Animal Kingdom",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo104.pdf"
+          }
+        ]
+      },
+      "Morphology of Flowering Plants": {
+        "description": "Plant Structure provides a foundation in plant organisation. Read NCERT alongside it for root, stem and leaf modifications, inflorescences, floral formulae, floral diagrams, fruits and seeds.",
+        "resources": [
+          {
+            "title": "NCERT: Morphology of Flowering Plants — text and floral diagrams",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo105.pdf"
+          }
+        ]
+      },
+      "Anatomy of Flowering Plants": {
+        "description": "Paul Andersen explains plant tissues and cells, then compares tissues in monocot and dicot roots, stems and leaves. Use the NCERT diagrams for the prescribed anatomical detail.",
+        "resources": [
+          {
+            "title": "NCERT: Anatomy of Flowering Plants — text and diagrams",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo106.pdf"
+          }
+        ]
+      },
+      "Structural Organisation in Animals": {
+        "description": "Begin with the four major tissue types, then connect cell specialisation to organs and organ systems. Use NCERT for the prescribed animal anatomy and labelled diagrams.",
+        "resources": [
+          {
+            "title": "NCERT: Structural Organisation in Animals — text and diagrams",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo107.pdf"
+          }
+        ]
+      },
+      "Cell: The Unit of Life": {
+        "description": "The university core is retained: MIT lectures on cells, membranes and protein trafficking."
+      },
+      "Biomolecules": {
+        "description": "The university core is retained: MIT lectures on biological molecules, enzymes and metabolism."
+      },
+      "Cell Cycle and Cell Division": {
+        "description": "The university core is retained: MIT lectures on mitosis, meiosis and the cell cycle."
+      },
+      "Photosynthesis in Higher Plants": {
+        "description": "The MIT lecture is followed by Paul Andersen’s overview of chloroplasts, light reactions and the Calvin cycle."
+      },
+      "Respiration in Plants": {
+        "description": "The MIT lecture is followed by Paul Andersen on cellular respiration. Plants also use glycolysis, the citric acid cycle and oxidative phosphorylation."
+      },
+      "Plant Growth and Development": {
+        "description": "Plant Control introduces auxin, cytokinins, gibberellins, abscisic acid and ethylene. Use NCERT for growth phases, differentiation and the remaining chapter detail.",
+        "resources": [
+          {
+            "title": "NCERT: Plant Growth and Development",
+            "url": "https://ncert.nic.in/textbook/pdf/kebo113.pdf"
+          }
+        ]
+      }
+    },
+    "chemistry": {
+      "Organic Chemistry: Basic Principles and Techniques": {
+        "description": "Primary course: James S. Nowick’s CHEM 51A at UC Irvine, in lecture order, including the supplemental lecture 08A. Start here for bonding, resonance, acids and bases, functional groups, alkane nomenclature, stereochemistry and mechanisms. Later substitution and elimination lectures extend beyond Class 11. The MIT introduction is retained at the end. Use NCERT for purification and qualitative and quantitative analysis.",
+        "resources": [
+          {
+            "title": "UC Irvine: complete CHEM 51A course",
+            "url": "https://ocw.uci.edu/courses/chem_51a_organic_chemistry_nowick.html"
+          },
+          {
+            "title": "NCERT: Organic Chemistry — Some Basic Principles and Techniques",
+            "url": "https://ncert.nic.in/textbook/pdf/kech202.pdf"
+          }
+        ]
+      },
+      "Hydrocarbons": {
+        "description": "Continue after Nowick’s alkane lectures (CHEM 51A, lectures 10–13) in the primary chapter. David Van Vranken’s CHEM 51B selections cover alkenes, alkynes, radicals, conjugation, aromaticity and electrophilic aromatic substitution. Some mechanisms extend beyond Class 11.",
+        "resources": [
+          {
+            "title": "UC Irvine: complete CHEM 51B course",
+            "url": "https://ocw.uci.edu/courses/chem_51b_organic_chemistry_van_vranken.html"
+          },
+          {
+            "title": "NCERT: Hydrocarbons",
+            "url": "https://ncert.nic.in/textbook/pdf/kech203.pdf"
+          }
+        ]
+      },
+      "Organic Chemistry: Conceptual Companion": {
+        "description": "Optional deeper study with J. Michael McBride at Yale. These selections from CHEM 125a and 125b examine experimental evidence, the development of structural ideas, stereochemistry and reaction mechanisms. Follow Nowick as the primary sequence.",
+        "resources": [
+          {
+            "title": "Yale: complete CHEM 125a course",
+            "url": "https://oyc.yale.edu/chemistry/chem-125a"
+          },
+          {
+            "title": "Yale: complete CHEM 125b course",
+            "url": "https://oyc.yale.edu/chemistry/chem-125b"
+          }
+        ]
+      }
+    }
+  }
 }

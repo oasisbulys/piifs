@@ -81,6 +81,7 @@ figure {margin:0}
 .chapter-section {margin:32px 0 40px;scroll-margin-top:20px}
 .chapter-section h2 {font-size:24px;color:#8a887d;margin:0 0 12px}
 .chapter-description {font-size:13px;color:#555;margin-bottom:15px}
+.chapter-resources {font-size:13px;line-height:1.6;margin:0 0 20px;padding-left:20px}
 .lecture-list {list-style:none;padding:0;margin:0}
 .lecture-list li {padding:12px 0;border-bottom:1px dotted #ccc}
 .lecture-list li:last-child {border-bottom:0}
