@@ -31,9 +31,7 @@ Plant Growth and Development have their own chapters.
 
 New lecture entries in `science-lectures.json` include a `sourceUrl` pointing to
 the publisher's lesson page. Their video IDs, durations and embed availability
-were checked on 8 November 2026. `chapterGuides` contains study guidance and
-external reading links, including NCERT supplements for syllabus details and
-diagrams. NCERT's PDFs could not be retrieved during this check; video playback
-and external resources remain subject to their publishers' availability.
+were checked on 8 November 2026. Chapters display the lecture catalogue directly,
+without introductory guidance or supplementary course-resource blocks.
 
 Instagram: [@piifs.india](https://www.instagram.com/piifs.india/).
