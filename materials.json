@@ -70,5 +70,93 @@
     "format": "Problem-set PDFs",
     "subject": "Mathematics",
     "url": "https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/assignments/"
+  },
+  {
+    "section": "Course Resources",
+    "title": "Project Organic — CHEM 51B Course Index and Lectures",
+    "author": "David Van Vranken · UC Irvine",
+    "format": "Course overview and complete lecture index",
+    "subject": "Organic Chemistry",
+    "url": "https://ocw.uci.edu/courses/chem_51b_organic_chemistry_van_vranken.html"
+  },
+  {
+    "section": "Exercises",
+    "title": "Project Organic — Nucleophilic Substitution Practice",
+    "author": "UCI Organic Chemistry Peer Tutoring Department",
+    "format": "CHEM 51B worksheet",
+    "subject": "Organic Chemistry",
+    "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/0/531/files/2024/01/Week-1-Worksheet-85101018202a2c25.pdf"
+  },
+  {
+    "section": "Exercises",
+    "title": "Project Organic — Substitution and Carbocation Solutions",
+    "author": "UCI Organic Chemistry Peer Tutoring Department",
+    "format": "CHEM 51B worked-answer worksheet",
+    "subject": "Organic Chemistry",
+    "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/0/531/files/2024/01/Week-2-Worksheet-KEY-a69098558b8392f4.pdf"
+  },
+  {
+    "section": "Exercises",
+    "title": "Project Organic — Alcohols, Ethers, and Epoxides Solutions",
+    "author": "UCI Organic Chemistry Peer Tutoring Department",
+    "format": "CHEM 51B worked-answer worksheet",
+    "subject": "Organic Chemistry",
+    "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/0/531/files/2024/02/KEY-Week-4-Worksheet-2-16e5f5af84002f38.pdf"
+  },
+  {
+    "section": "Exercises",
+    "title": "Project Organic — Alkene and Epoxide Reaction Solutions",
+    "author": "UCI Organic Chemistry Peer Tutoring Department",
+    "format": "CHEM 51B worked-answer worksheet",
+    "subject": "Organic Chemistry",
+    "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/0/531/files/2024/02/KEY-Week-5-Worksheet-1-1-277f47c643c64101.pdf"
+  },
+  {
+    "section": "Exercises",
+    "title": "Project Organic — Alkyne Synthesis Problems",
+    "author": "UCI Organic Chemistry Peer Tutoring Department",
+    "format": "CHEM 51B worksheet",
+    "subject": "Organic Chemistry",
+    "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/0/531/files/2024/03/Week-8-Worksheet-2-d8e844a24fd52456.pdf"
+  },
+  {
+    "section": "Exercises",
+    "title": "Project Organic — Comprehensive Mechanism Review",
+    "author": "UCI Organic Chemistry Peer Tutoring Department",
+    "format": "CHEM 51B review worksheet",
+    "subject": "Organic Chemistry",
+    "url": "https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/0/531/files/2025/03/Chem-51B-Final-Worksheet.pdf"
+  },
+  {
+    "section": "Tests and Problem Sets",
+    "title": "Project Organic — Topic-wise Organic Chemistry Problems",
+    "author": "SATHEE · IIT Kanpur",
+    "format": "Question bank with worked solutions",
+    "subject": "Organic Chemistry",
+    "url": "https://sathee.iitk.ac.in/pyqs/jee/chapterwise/chemistry/organic-chemistry/"
+  },
+  {
+    "section": "Tests and Problem Sets",
+    "title": "Project MOT — Mathematical Olympiad Papers and Solutions",
+    "author": "Homi Bhabha Centre for Science Education · TIFR",
+    "format": "Past question papers and solutions",
+    "subject": "Mathematics",
+    "url": "https://olympiads.hbcse.tifr.res.in/past-papers-sample-questions/"
+  },
+  {
+    "section": "Tests and Problem Sets",
+    "title": "Project Core — Full-Length Practice Papers",
+    "author": "National Testing Agency",
+    "format": "Official question-paper archive",
+    "subject": "Mathematics · Physics · Chemistry",
+    "url": "https://jeemain.nta.nic.in/document-category/archive/"
+  },
+  {
+    "section": "Tests and Problem Sets",
+    "title": "Project Challenge — Full-Length Problem Papers",
+    "author": "Official question-paper archive",
+    "format": "Past-paper archive · two-paper sets",
+    "subject": "Mathematics · Physics · Chemistry",
+    "url": "https://jeeadv.ac.in/archive.html"
   }
 ]
