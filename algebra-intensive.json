@@ -1,5 +1,5 @@
 {
-  "title": "Algebra — Seven-Day Course",
+  "title": "Algebra: Seven-Day Course",
   "subtitle": "Polynomials, inequalities, matrices and abstract algebra",
   "description": "18 lectures, written exercises and a final assessment.",
   "dailyStructure": [
@@ -67,7 +67,7 @@
       ],
       "links": [
         {
-          "label": "MIT 18.702 Problem Set 8 — symmetric functions and discriminant",
+          "label": "MIT 18.702 Problem Set 8: symmetric functions and discriminant",
           "url": "https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/9c85895a8a837cfa92ce17ed389899c4_MIT18_702S11_pset8.pdf"
         }
       ]
@@ -118,7 +118,7 @@
       ],
       "links": [
         {
-          "label": "Thomas J. Mildorf — Olympiad Inequalities",
+          "label": "Thomas J. Mildorf: Olympiad Inequalities",
           "url": "https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf"
         }
       ]
@@ -325,7 +325,7 @@
       ],
       "links": [
         {
-          "label": "Thomas J. Mildorf — Olympiad Inequalities",
+          "label": "Thomas J. Mildorf: Olympiad Inequalities",
           "url": "https://artofproblemsolving.com/articles/files/MildorfInequalities.pdf"
         },
         {

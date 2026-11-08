@@ -41,7 +41,7 @@
   },
   {
     "section": "Papers and Lecture Notes",
-    "title": "Algebra — Reading Assignments",
+    "title": "Algebra: Reading Assignments",
     "author": "Michael Artin · MIT OpenCourseWare",
     "format": "Reading list",
     "subject": "Mathematics",
@@ -49,7 +49,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Algebra — Problems and Assignments",
+    "title": "Algebra: Problems and Assignments",
     "author": "MIT OpenCourseWare",
     "format": "Problem-set PDFs",
     "subject": "Mathematics",
@@ -57,7 +57,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Linear Algebra — Exercises and Solutions",
+    "title": "Linear Algebra: Exercises and Solutions",
     "author": "MIT OpenCourseWare",
     "format": "Course resources and PDFs",
     "subject": "Mathematics",
@@ -65,7 +65,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Fields and Galois Theory — Assignments",
+    "title": "Fields and Galois Theory: Assignments",
     "author": "MIT OpenCourseWare",
     "format": "Problem-set PDFs",
     "subject": "Mathematics",
@@ -73,7 +73,7 @@
   },
   {
     "section": "Course Resources",
-    "title": "Project Organic — CHEM 51B Course Index and Lectures",
+    "title": "Project Organic: CHEM 51B Course Index and Lectures",
     "author": "David Van Vranken · UC Irvine",
     "format": "Course overview and complete lecture index",
     "subject": "Organic Chemistry",
@@ -81,7 +81,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Project Organic — Nucleophilic Substitution Practice",
+    "title": "Project Organic: Nucleophilic Substitution Practice",
     "author": "UCI Organic Chemistry Peer Tutoring Department",
     "format": "CHEM 51B worksheet",
     "subject": "Organic Chemistry",
@@ -89,7 +89,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Project Organic — Substitution and Carbocation Solutions",
+    "title": "Project Organic: Substitution and Carbocation Solutions",
     "author": "UCI Organic Chemistry Peer Tutoring Department",
     "format": "CHEM 51B worked-answer worksheet",
     "subject": "Organic Chemistry",
@@ -97,7 +97,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Project Organic — Alcohols, Ethers, and Epoxides Solutions",
+    "title": "Project Organic: Alcohols, Ethers, and Epoxides Solutions",
     "author": "UCI Organic Chemistry Peer Tutoring Department",
     "format": "CHEM 51B worked-answer worksheet",
     "subject": "Organic Chemistry",
@@ -105,7 +105,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Project Organic — Alkene and Epoxide Reaction Solutions",
+    "title": "Project Organic: Alkene and Epoxide Reaction Solutions",
     "author": "UCI Organic Chemistry Peer Tutoring Department",
     "format": "CHEM 51B worked-answer worksheet",
     "subject": "Organic Chemistry",
@@ -113,7 +113,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Project Organic — Alkyne Synthesis Problems",
+    "title": "Project Organic: Alkyne Synthesis Problems",
     "author": "UCI Organic Chemistry Peer Tutoring Department",
     "format": "CHEM 51B worksheet",
     "subject": "Organic Chemistry",
@@ -121,7 +121,7 @@
   },
   {
     "section": "Exercises",
-    "title": "Project Organic — Comprehensive Mechanism Review",
+    "title": "Project Organic: Comprehensive Mechanism Review",
     "author": "UCI Organic Chemistry Peer Tutoring Department",
     "format": "CHEM 51B review worksheet",
     "subject": "Organic Chemistry",
@@ -129,7 +129,7 @@
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Silicon — Organic Chemistry Practice Test",
+    "title": "Project Silicon: Organic Chemistry Practice Test",
     "author": "Dr. Sarah Tabacco · MIT OpenCourseWare",
     "format": "5.12 Practice Exam 1 · CC BY-NC-SA 4.0",
     "subject": "Organic Chemistry",
@@ -139,7 +139,7 @@
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Thorium — Number Theory Practice Problems",
+    "title": "Project Thorium: Number Theory Practice Problems",
     "author": "Prof. Abhinav Kumar · MIT OpenCourseWare",
     "format": "18.781 Exam 1 Practice · CC BY-NC-SA 4.0",
     "subject": "Mathematics",
@@ -150,7 +150,7 @@
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Scandium — Chemical Science Practice Test",
+    "title": "Project Scandium: Chemical Science Practice Test",
     "author": "Prof. Catherine Drennan · MIT OpenCourseWare",
     "format": "5.111 Practice Third Hour Exam · CC BY-NC-SA 4.0",
     "subject": "Chemistry",
@@ -160,7 +160,7 @@
   },
   {
     "section": "Tests and Problem Sets",
-    "title": "Project Titanium — Classical Mechanics Practice Test",
+    "title": "Project Titanium: Classical Mechanics Practice Test",
     "author": "Dr. George Stephans · MIT OpenCourseWare",
     "format": "8.01L Practice Exam 1 · CC BY-NC-SA 4.0",
     "subject": "Physics",
