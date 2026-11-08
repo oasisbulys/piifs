@@ -580,6 +580,46 @@
       "duration": 1279
     },
     {
+      "chapter": "Chemical Principles",
+      "id": "zRS5KvMcnu0",
+      "title": "The Mole and Molar Mass",
+      "teacher": "Eric Potma · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=zRS5KvMcnu0",
+      "series": "Chem 1P",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_1p_lec_11_general_chemistry_prep.html",
+      "duration": 2758
+    },
+    {
+      "chapter": "Chemical Principles",
+      "id": "ukggp4hXGok",
+      "title": "Mass Percent, Empirical and Molecular Formulas",
+      "teacher": "Eric Potma · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=ukggp4hXGok",
+      "series": "Chem 1P",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_1p_lec_12_general_chemistry_prep_mass_percent.html",
+      "duration": 2634
+    },
+    {
+      "chapter": "Chemical Principles",
+      "id": "wRSq5VVDmuQ",
+      "title": "Balancing Equations and Reaction Stoichiometry",
+      "teacher": "Eric Potma · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=wRSq5VVDmuQ",
+      "series": "Chem 1P",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_1p_lec_13_general_chemistry_prep_chemical_reactions.html",
+      "duration": 2449
+    },
+    {
+      "chapter": "Chemical Principles",
+      "id": "YkZg2Lrj4ZU",
+      "title": "Limiting Reagents and Percent Yield",
+      "teacher": "Eric Potma · UC Irvine",
+      "url": "https://www.youtube.com/watch?v=YkZg2Lrj4ZU",
+      "series": "Chem 1P",
+      "sourceUrl": "https://ocw.uci.edu/lectures/chem_1p_lec_14_general_chemistry_prep_limiting_reagents.html",
+      "duration": 2778
+    },
+    {
       "chapter": "Atomic Theory and Quantum Chemistry",
       "id": "dxR06Mi8ExI",
       "title": "Atomic Theory of Matter",
@@ -1132,6 +1172,34 @@
       "series": "CHEM 51A",
       "sourceUrl": "https://ocw.uci.edu/lectures/chem_51a_lecture_27_organic_chemistry__ch_8_e1_reactions_comparison_of_sn1_sn2_e1_and_e2_reactions.html",
       "duration": 3000
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "5SB9sGNjGEs",
+      "title": "Purification Methods and Elemental Analysis",
+      "teacher": "S. Sankararaman · IIT Madras / SATHEE",
+      "url": "https://www.youtube.com/watch?v=5SB9sGNjGEs",
+      "series": "SATHEE · Organic Chemistry",
+      "sourceUrl": "https://sathee.iitk.ac.in/sathee-neet/class-11/chemistry_11/organic-chemistry-some-basic-principles-and-techniques-lecture-6-by-prof-s-sankararaman/",
+      "duration": 3570
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "vdsD0BfuId4",
+      "title": "Quantitative Elemental Analysis: Dumas, Kjeldahl and Carius Methods",
+      "teacher": "S. Sankararaman · IIT Madras / SATHEE",
+      "url": "https://www.youtube.com/watch?v=vdsD0BfuId4",
+      "series": "SATHEE · Organic Chemistry",
+      "sourceUrl": "https://sathee.iitk.ac.in/sathee-neet/class-11/chemistry_11/organic-chemistry-some-basic-principles-and-techniques-lecture-7-by-prof-s-sankararaman/",
+      "duration": 3319
+    },
+    {
+      "chapter": "Organic Chemistry Basic Principles and Techniques",
+      "id": "AFS4JbQGB0c",
+      "title": "Introduction to Organic Chemistry",
+      "teacher": "MIT OpenCourseWare",
+      "url": "https://www.youtube.com/watch?v=AFS4JbQGB0c",
+      "duration": 3130
     },
     {
       "chapter": "Hydrocarbons",
