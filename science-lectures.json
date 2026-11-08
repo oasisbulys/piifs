@@ -1559,19 +1559,6 @@
       }
     },
     "chemistry": {
-      "Organic Chemistry: Basic Principles and Techniques": {
-        "description": "Primary course: James S. Nowick’s CHEM 51A at UC Irvine, in lecture order, including the supplemental lecture 08A. Start here for bonding, resonance, acids and bases, functional groups, alkane nomenclature, stereochemistry and mechanisms. Later substitution and elimination lectures extend beyond Class 11. The MIT introduction is retained at the end. Use NCERT for purification and qualitative and quantitative analysis.",
-        "resources": [
-          {
-            "title": "UC Irvine: complete CHEM 51A course",
-            "url": "https://ocw.uci.edu/courses/chem_51a_organic_chemistry_nowick.html"
-          },
-          {
-            "title": "NCERT: Organic Chemistry — Some Basic Principles and Techniques",
-            "url": "https://ncert.nic.in/textbook/pdf/kech202.pdf"
-          }
-        ]
-      },
       "Hydrocarbons": {
         "description": "Continue after Nowick’s alkane lectures (CHEM 51A, lectures 10–13) in the primary chapter. David Van Vranken’s CHEM 51B selections cover alkenes, alkynes, radicals, conjugation, aromaticity and electrophilic aromatic substitution. Some mechanisms extend beyond Class 11.",
         "resources": [
